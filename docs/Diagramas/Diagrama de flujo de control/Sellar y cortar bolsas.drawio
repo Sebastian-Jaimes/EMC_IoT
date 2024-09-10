@@ -1,0 +1,73 @@
+<mxfile host="65bd71144e">
+    <diagram id="ra2_bkY9aYqdC2gCG2ql" name="Page-1">
+        <mxGraphModel dx="677" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="605" y="220" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="575" y="190" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Encender actuadores para ajustar las correas de deslizamiento" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="545" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="10" target="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Encender actuador lineal que sella el lado de la bolsa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="545" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=none;html=1;rounded=0;" edge="1" parent="1" source="13" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="605" y="530"/>
+                            <mxPoint x="525" y="530"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;rounded=0;" edge="1" parent="1" source="13" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="605" y="530"/>
+                            <mxPoint x="695" y="530"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Encender motores de las correas de deslizamiento" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="545" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="450" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="525" y="660"/>
+                            <mxPoint x="430" y="660"/>
+                            <mxPoint x="430" y="370"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="Encender actuadores lineales para formar base" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="465" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;rounded=0;html=1;" edge="1" parent="1" source="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="525" y="660" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="695" y="660"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="Encender actuadores lineales para cortar y sellar bolsa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="635" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,313 @@
+<mxfile host="65bd71144e">
+    <diagram name="Copy of Page-1" id="NII6ra7tKrfNzlsgMBGU">
+        <mxGraphModel dx="1146" dy="571" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-0"/>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-1" parent="CMLHCJ6Lxcer5jCGiYaB-0"/>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-2" value="" style="edgeStyle=none;html=1;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" target="CMLHCJ6Lxcer5jCGiYaB-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="285" y="429" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-3" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="CMLHCJ6Lxcer5jCGiYaB-4" target="yY22wWSNRqriSObaIDQg-0">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="285" y="549" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-4" value="Encender el motor del transportador helicoidal" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="225" y="459" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-12" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="285" y="429" as="sourcePoint"/>
+                        <mxPoint x="542" y="429" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" target="yY22wWSNRqriSObaIDQg-3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="542" y="429" as="sourcePoint"/>
+                        <mxPoint x="542" y="459" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-19" value="" style="edgeStyle=none;html=1;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="CMLHCJ6Lxcer5jCGiYaB-20" target="CMLHCJ6Lxcer5jCGiYaB-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-20" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="392" y="191" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-21" value="" style="edgeStyle=none;html=1;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="CMLHCJ6Lxcer5jCGiYaB-22" target="CMLHCJ6Lxcer5jCGiYaB-23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-22" value="Asegurarse de que la tolva tiene café" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="362" y="251" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-23" value="Encender máquina" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="362" y="339" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CMLHCJ6Lxcer5jCGiYaB-24" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" target="CMLHCJ6Lxcer5jCGiYaB-23">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="422" y="429" as="sourcePoint"/>
+                        <mxPoint x="342" y="359" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-8" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="yY22wWSNRqriSObaIDQg-0">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="542" y="641" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="285" y="640"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="yY22wWSNRqriSObaIDQg-0" value="Dosificar el café en 1kg" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="225" y="548" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-5" value="" style="edgeStyle=none;html=1;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="yY22wWSNRqriSObaIDQg-2" target="WrPZ9O4NPNbKUbzEek7v-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yY22wWSNRqriSObaIDQg-2" value="Colocar válvula desgasficadora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="482" y="551" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yY22wWSNRqriSObaIDQg-4" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="yY22wWSNRqriSObaIDQg-3" target="yY22wWSNRqriSObaIDQg-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yY22wWSNRqriSObaIDQg-3" value="Jalar bolsa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="482" y="462" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-7" value="" style="edgeStyle=none;html=1;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="WrPZ9O4NPNbKUbzEek7v-4" target="WrPZ9O4NPNbKUbzEek7v-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-4" value="Llenar el café en la bolsa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="482" y="676" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-10" value="" style="edgeStyle=none;rounded=0;html=1;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="WrPZ9O4NPNbKUbzEek7v-6" target="WrPZ9O4NPNbKUbzEek7v-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-6" value="Sellar y cortar bolsas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="482" y="767" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-12" value="" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CMLHCJ6Lxcer5jCGiYaB-1" source="WrPZ9O4NPNbKUbzEek7v-9" target="WrPZ9O4NPNbKUbzEek7v-13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="542" y="955" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-9" value="Contabilizar paquetes y mostrar información en la app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="482" y="861" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WrPZ9O4NPNbKUbzEek7v-13" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CMLHCJ6Lxcer5jCGiYaB-1">
+                    <mxGeometry x="512" y="948" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="INudi7NL7MZcqkZFediK" name="Page-1">
+        <mxGraphModel dx="1662" dy="828" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" parent="1" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="264" y="304" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" parent="1" source="7" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Encender el motor del transportador helicoidal" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="204" y="334" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="edgeStyle=none;rounded=0;html=1;" parent="1" source="9" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="El sensor marcó 1kg?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="191.5" y="424" width="145" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="1" source="9" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="419" y="454" as="sourcePoint"/>
+                        <mxPoint x="264" y="406" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="409" y="464"/>
+                            <mxPoint x="409" y="424"/>
+                            <mxPoint x="409" y="406"/>
+                            <mxPoint x="376" y="406"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="376" y="424" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="edgeStyle=none;rounded=0;html=1;" parent="1" source="14" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Girar el dosificador" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="204" y="526" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="264" y="504" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="264" y="304" as="sourcePoint"/>
+                        <mxPoint x="521" y="304" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="Depositar café en el tubo formador" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="204" y="616" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="41" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="521" y="304" as="sourcePoint"/>
+                        <mxPoint x="541" y="344" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;rounded=0;html=1;" parent="1" source="21" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Encender actuador lineal que coloca la válvula" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="461" y="424" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Encender actuador lineal que sella el lado de la bolsa" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="461" y="526" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Encender actuadores lineales para formar base" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="461" y="646" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;" parent="1" source="33" target="35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="371" y="66" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;" parent="1" source="35" target="36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Asegurarse de que la tolva tiene café" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="341" y="126" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Encender máquina" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="341" y="214" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="36" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="401" y="304" as="sourcePoint"/>
+                        <mxPoint x="321" y="234" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="Encender motores de las correas de deslizamiento" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="616" y="526" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;" parent="1" source="41" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Encender actuadores para ajustar las correas de deslizamiento" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="461" y="334" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="endArrow=none;html=1;rounded=0;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="38" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="831" y="586" as="sourcePoint"/>
+                        <mxPoint x="671" y="606" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="676" y="606"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="46" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="521" y="616" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="676" y="616"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="Encender actuadores lineales para cortar y sellar bolsa" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="616" y="646" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="18" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="131" y="764" as="sourcePoint"/>
+                        <mxPoint x="264" y="406" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="264" y="696"/>
+                            <mxPoint x="171" y="696"/>
+                            <mxPoint x="170" y="406"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="66" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="52" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Captar un nuevo paquete listo" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="771" y="702" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="46" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="676" y="732" as="sourcePoint"/>
+                        <mxPoint x="811" y="679" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="Enviar información recopilada a la nube" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="771" y="624" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="1" source="60" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;rounded=0;" parent="1" source="60" target="74" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="965" y="553"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="60" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="522" y="407" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="831" y="407"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="60" value="¿Fin de operatividad?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="513" width="138" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="24" target="52" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="594" y="782" as="sourcePoint"/>
+                        <mxPoint x="644" y="732" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="521" y="732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="68" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="831" y="407" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="960" y="564" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="930" y="614" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" parent="1" source="22" target="38" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="585" y="540" as="sourcePoint"/>
+                        <mxPoint x="635" y="490" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="600" y="556"/>
+                            <mxPoint x="600" y="506"/>
+                            <mxPoint x="676" y="506"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="24" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="671" y="606" as="sourcePoint"/>
+                        <mxPoint x="495" y="590" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="521" y="606"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

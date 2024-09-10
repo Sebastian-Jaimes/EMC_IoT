@@ -1,0 +1,3283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="06/22/22||13:55:15" using="Simscape Multibody Link Version 7.4" from="SolidWorks 30.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Dosificador Volumétrico" uid="Dosificador Volumétrico" version="1811">
+<AssemblyFile name="Dosificador Volumétrico.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Vaso volumétrico-7" uid="Vaso volumétrico-7" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.10209797681615437 0 0.99477434784480046 0 1 0 -0.99477434784480046 0 -0.10209797681615437</Rotation>
+<Translation>0.068881304123287163 0.12116826245127543 0.90413106283265909</Translation>
+</Transform>
+</Instance>
+<Instance name="Disco Dosificador-1" uid="Disco Dosificador-1" entityUid="Disco Dosificador*:*Predeterminado">
+<Transform>
+<Rotation>-0.58580661552046154 0 0.8104508678584178 0 1 0 -0.8104508678584178 0 -0.58580661552046154</Rotation>
+<Translation>0.043356809919263509 0.29806826245127543 0.65543747587146772</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-2" uid="Tapa de Vaso volumétrico-2" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.99477434784479668 -1.4624446117064904e-16 0.10209797681619111 1.7542052337633353e-16 1 -2.7678683212804408e-16 -0.10209797681619111 2.9325052095096323e-16 0.99477434784479668</Rotation>
+<Translation>0.068881304123352055 0.11816826245127503 0.90413106283264777</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-9" uid="Vaso volumétrico-9" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.91254884467483877 0 -0.40896773232446704 0 1 0 0.40896773232446704 0 0.91254884467483877</Rotation>
+<Translation>-0.18478040124948936 0.12116826245127543 0.5531955427903964</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-1" uid="Vaso volumétrico-1" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.91254884467472808 0 0.40896773232471451 0 1 0 -0.40896773232471451 0 -0.91254884467472808</Rotation>
+<Translation>0.2714940210876583 0.12116826245127543 0.7576794089526544</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-8" uid="Vaso volumétrico-8" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.81045086785852205 0 0.58580661552031699 0 1 0 -0.58580661552031699 0 0.81045086785852205</Rotation>
+<Translation>-0.15925590704531867 0.12116826245127543 0.8018891297515951</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-10" uid="Vaso volumétrico-10" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.10209797681646499 0 -0.99477434784476859 0 1 0 0.99477434784476859 0 0.10209797681646499</Rotation>
+<Translation>0.017832315715158899 0.12116826245127543 0.40674388891022606</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-11" uid="Vaso volumétrico-11" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.81045086785867071 0 -0.58580661552011148 0 1 0 0.58580661552011148 0 -0.81045086785867071</Rotation>
+<Translation>0.24596952688372842 0.12116826245127543 0.508985821991361</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-3" uid="Tapa de Vaso volumétrico-3" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.58580661552031699 0 -0.81045086785852205 0 1 0 0.81045086785852205 0 0.58580661552031699</Rotation>
+<Translation>-0.15925590704532064 0.1181682624512754 0.80188912975159654</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-4" uid="Tapa de Vaso volumétrico-4" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.40896773232443095 2.5514682923436956e-16 -0.91254884467485509 5.4123372450474666e-16 1 0 0.91254884467485509 -4.787545421732057e-16 -0.40896773232443095</Rotation>
+<Translation>-0.18478040124944911 0.11816826245127589 0.55319554279040373</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-25" uid="pan head tapping screw_am-25" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.29603208502741707 0.31176826245127542 0.70292647827200283</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-17" uid="pan head tapping screw_am-17" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.062755425514381041 0.31176826245127542 0.8444446019619456</Translation>
+</Transform>
+</Instance>
+<Instance name="Base-1" uid="Base-1" grounded="true" entityUid="Base*:*Predeterminado">
+<Transform>
+<Rotation>-8.0935328282736143e-05 0 -0.99999999672473627 0 1 0 0.99999999672473627 0 -8.0935328282736143e-05</Rotation>
+<Translation>0.043356809919172998 -0.031831737548724585 0.65543747587148293</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-20" uid="pan head tapping screw_am-20" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.12856776499405703 0.31176826245127542 0.89800518422364195</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-23" uid="pan head tapping screw_am-23" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.24695595714849977 0.31176826245127542 0.81243233963299299</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-9" uid="clevis pin headed_bsi-9" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>-0.91254884467472797 4.5835601349489835e-13 0.40896773232471428 0 1 -1.1207632676942435e-12 -0.40896773232471428 -1.022751224445976e-12 -0.91254884467472797</Rotation>
+<Translation>0.30743558709003699 0.12716826245146307 0.70584540627774883</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-4" uid="clevis pin headed_bsi-4" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>-0.81045086785867104 -0.079592336023156268 -0.58037440573607657 0 0.99072695725839266 -0.1358679364733528 0.58580661552011104 -0.11011428702899556 -0.80293552232104493</Rotation>
+<Translation>0.219050746788642 0.12716826245128518 0.45194251144408876</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-15" uid="pan head tapping screw_am-15" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.19734247481230527 0.31176826245127542 0.54413421892253944</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-7" uid="taper pin unhardened_bsi-7" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>-0.10209797681619082 -0.45495166543139276 0.88464398785683418 2.7676851786112931e-16 0.88929111388269844 0.45734157341014758 -0.99477434784479668 0.046693649359109718 -0.090794823528040122</Rotation>
+<Translation>0.036015634339396585 0.093168262451275227 0.91692342968370433</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-13" uid="pan head tapping screw_am-13" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.29459657895531555 0.31176826245127542 0.47383742506008325</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-18" uid="pan head tapping screw_am-18" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.009194843252684673 0.31176826245127542 0.91025694144162217</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-16" uid="pan head tapping screw_am-16" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.077518776585760785 0.31176826245127542 0.40061801030126915</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-24" uid="pan head tapping screw_am-24" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.21674109040746342 0.31176826245127542 0.73314134501303907</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-1" uid="clevis pin headed_bsi-1" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>0.81045086785852227 0.00073399375196001309 0.58580615568679406 0 0.99999921504211353 -0.0012529625519986244 -0.58580661552031688 0.0010154645876615141 0.81045023168872199</Rotation>
+<Translation>-0.13233712695021566 0.12716826245126769 0.85893244029886073</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-4" uid="taper pin unhardened_bsi-4" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>-0.81045086785863329 0.48676616990573773 0.32592650494012715 0 -0.55637218205656958 0.83093320732391673 0.58580661552016322 0.67343053900822614 0.4509123178001484</Rotation>
+<Translation>0.2734808764433117 0.093168262451275408 0.53105214351109431</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-19" uid="pan head tapping screw_am-19" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.075007182732360206 0.31176826245127542 0.96381752370331797</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-2" uid="clevis pin headed_bsi-2" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>0.91254884467483899 -0.28474138006061411 -0.29355911255451428 0 0.71780507201876265 -0.69624412283633585 0.4089677323244672 0.63535676990594503 0.65503218917246153</Rotation>
+<Translation>-0.22072196725183971 0.12716826245121621 0.60502954546528509</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-5" uid="taper pin unhardened_bsi-5" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>-0.10209797681643758 -0.19387215105512731 0.97569953990726477 0 0.98082499013084401 0.1948905814420738 -0.99477434784477159 0.019897934065814894 -0.10014024710336153</Rotation>
+<Translation>0.052535749081784301 0.093168262451275574 0.41185746032036613</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-22" uid="pan head tapping screw_am-22" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.32624695176845342 0.31176826245127542 0.78221747289195631</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-3" uid="clevis pin headed_bsi-3" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>0.1020979768164649 -0.66694779057425402 -0.7380763156870066 0 0.74195350662799864 -0.67045133604342688 0.99477434784476881 0.068451724963929733 0.075751951918600235</Rotation>
+<Translation>-0.045028030382291993 0.12716826245127533 0.40153458103784945</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-6" uid="taper pin unhardened_bsi-6" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>0.91254884467485509 -0.043834969565718689 -0.40661173313833443 0 0.99423915629551984 -0.10718442092381202 0.40896773232443123 0.097811019481168021 0.90729179340797927</Rotation>
+<Translation>-0.17942608102502128 0.093168262451275699 0.51833685441957744</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-8" uid="taper pin unhardened_bsi-8" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>-0.91254884467476582 -0.045403141562145657 -0.40643961521859356 1.2083012459363308e-16 -0.99381829688208712 0.11101888480068504 -0.40896773232463052 0.10131015506194602 0.90690773863639196</Rotation>
+<Translation>0.26613970086334815 0.093168262451275574 0.79253809732341252</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-1" uid="taper pin unhardened_bsi-1" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>0.81045086785852227 0.37306848761880496 0.45165174009759529 0 0.77099119083255085 -0.63684580838583282 -0.58580661552031676 0.5161322380983604 0.62485047972151642</Rotation>
+<Translation>-0.18676725660484578 0.093168262451275435 0.77982280823183137</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-14" uid="pan head tapping screw_am-14" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.2108211299525827 0.31176826245127542 0.46035876991980657</Translation>
+</Transform>
+</Instance>
+<Instance name="Escobilla-1" uid="Escobilla-1" grounded="true" entityUid="Escobilla*:*Predeterminado">
+<Transform>
+<Rotation>0.28113062372071101 0 -0.95966951207507056 0 1 0 0.95966951207507056 0 0.28113062372071101</Rotation>
+<Translation>0.13405710325180592 0.30806826245127544 0.99180234751267748</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-5" uid="clevis pin headed_bsi-5" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>-0.10209797681615415 0.016848549599535714 0.9946316551902219 0 0.99985655776620308 -0.016937056766731521 -0.99477434784480068 -0.0017292392291036415 -0.10208333165429349</Rotation>
+<Translation>0.13174165022073134 0.12716826245127524 0.90934037070505747</Translation>
+</Transform>
+</Instance>
+<Instance name="Sensor de carga 5 kgf-1" uid="Sensor de carga 5 kgf-1" grounded="true" entityUid="Sensor de carga 5 kgf*:*Predeterminado">
+<Transform>
+<Rotation>0 0.17669907599650816 -0.98426492193005666 1 0 0 0 -0.98426492193005666 -0.17669907599650816</Rotation>
+<Translation>0.037563632371686501 0.065168262451275411 0.91351478153591292</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna de caja base-3" uid="Columna de caja base-3" grounded="true" entityUid="Columna de caja base*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.17628212512208161 -0.031831737548724585 0.78838430952399596</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna de caja base-2" uid="Columna de caja base-2" grounded="true" entityUid="Columna de caja base*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.089590023733258806 -0.031831737548724585 0.78836279107430662</Translation>
+</Transform>
+</Instance>
+<Instance name="Pata del dosificador-2" uid="Pata del dosificador-2" grounded="true" entityUid="Pata del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.99999999672473627 0 -8.0935328210245518e-05 0 1 0 8.0935328210245518e-05 0 0.99999999672473627</Rotation>
+<Translation>-0.085830225961692305 -0.73832173754872454 1.1304270216320478</Translation>
+</Transform>
+</Instance>
+<Instance name="Soporte para eje de dosificadora-3" uid="Soporte para eje de dosificadora-3" grounded="true" entityUid="Soporte para eje de dosificadora*:*Predeterminado">
+<Transform>
+<Rotation>-0.24699349329066159 0 -0.96901713827572544 0 1 0 0.96901713827572544 0 -0.24699349329066159</Rotation>
+<Translation>0.0433252451412676 0.33806826245127541 1.0454374745941166</Translation>
+</Transform>
+</Instance>
+<Instance name="Pata del dosificador-4" uid="Pata del dosificador-4" grounded="true" entityUid="Pata del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.99999999672473627 0 -8.0935328210245518e-05 0 1 0 8.0935328210245518e-05 0 0.99999999672473627</Rotation>
+<Translation>0.18416977315398647 -0.73832173754872454 1.1304488741706649</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna del dosificador-1" uid="Columna del dosificador-1" grounded="true" entityUid="Columna del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.043325245141263825 -0.2318317375487246 1.0454374745941268</Translation>
+</Transform>
+</Instance>
+<Instance name="Pata del dosificador-1" uid="Pata del dosificador-1" grounded="true" entityUid="Pata del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.99999999672473627 0 -8.0935328210245518e-05 0 1 0 8.0935328210245518e-05 0 0.99999999672473627</Rotation>
+<Translation>-0.085781664764766161 -0.73832173754872454 0.53042702359720584</Translation>
+</Transform>
+</Instance>
+<Instance name="Pata del dosificador-3" uid="Pata del dosificador-3" grounded="true" entityUid="Pata del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.99999999672473627 0 -8.0935328210245518e-05 0 1 0 8.0935328210245518e-05 0 0.99999999672473627</Rotation>
+<Translation>0.18421833435091259 -0.73832173754872454 0.53044887613582259</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna de caja base-1" uid="Columna de caja base-1" grounded="true" entityUid="Columna de caja base*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.089568505283576211 -0.031831737548724592 0.52249064221897346</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna de caja base-4" uid="Columna de caja base-4" grounded="true" entityUid="Columna de caja base*:*Predeterminado">
+<Transform>
+<Rotation>0.59333188279448734 0 0.8049579348385536 0 1 0 -0.8049579348385536 0 0.59333188279448734</Rotation>
+<Translation>0.17630364357175288 -0.031831737548724585 0.52251216066866102</Translation>
+</Transform>
+</Instance>
+<Instance name="Base Inferior de la caja-1" uid="Base Inferior de la caja-1" grounded="true" entityUid="Base Inferior de la caja*:*Predeterminado">
+<Transform>
+<Rotation>-8.0935328210245518e-05 0 -0.99999999672473627 0 1 0 0.99999999672473627 0 -8.0935328210245518e-05</Rotation>
+<Translation>0.043345478973283162 -0.2318317375487246 0.79543747541294418</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-2" uid="Rueda de vaso-2" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>0.40896773232443079 -2.2789098200803829e-13 0.91254884467485509 5.5731727393958216e-13 1 0 -0.91254884467485509 5.0859438211872802e-13 0.40896773232443079</Rotation>
+<Translation>-0.17361314488445256 0.093168262451184883 0.52094197887449856</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-5" uid="Rueda de vaso-5" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>0.40896773232462957 4.7540583697111665e-15 0.91254884467476616 -1.1635537352403907e-14 1 0 -0.91254884467476616 -1.0620013315624983e-14 0.40896773232462957</Rotation>
+<Translation>0.25485147165472666 0.093168262451392439 0.78747916647453875</Translation>
+</Transform>
+</Instance>
+<Instance name="Covertor de dosificador-2" uid="Covertor de dosificador-2" grounded="true" entityUid="Covertor de dosificador*:*Predeterminado">
+<Transform>
+<Rotation>-0.95966951207507079 0 -0.2811306237207109 0 1 0 0.2811306237207109 0 -0.95966951207507079</Rotation>
+<Translation>0.043356809919244718 0.35806826245127543 0.6554374758714705</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-1" uid="pan head tapping screw_am-1" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.11062885497386002 0.31176826245127542 0.76674073282035204</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-5" uid="pan head tapping screw_am-5" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.13002747056901853 0.31176826245127542 0.57773360672985163</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-7" uid="pan head tapping screw_am-7" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.16024233731005522 0.31176826245127542 0.49844261210989815</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-8" uid="pan head tapping screw_am-8" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.20931846518897149 0.31176826245127542 0.60794847347088832</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-6" uid="Tapa de Vaso volumétrico-6" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.58580661552016344 0 0.81045086785863296 0 1 0 -0.81045086785863296 0 -0.58580661552016344</Rotation>
+<Translation>0.24596952688378926 0.1181682624512754 0.50898582199132525</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-3" uid="Rueda de vaso-3" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>-0.99477434784477137 7.4164763735450646e-14 -0.10209797681643788 7.455428674403863e-14 1 0 0.10209797681643788 -7.6111426521338526e-15 -0.99477434784477137</Rotation>
+<Translation>0.051960937472305714 0.093168262451275852 0.40625688074199717</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-9" uid="pan head tapping screw_am-9" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.041854145155611824 0.31176826245127542 0.41286976751924875</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-6" uid="pan head tapping screw_am-6" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.23953333193000836 0.31176826245127542 0.5286574788509345</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-4" uid="pan head tapping screw_am-4" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.12410751011413834 0.31176826245127542 0.85051618182308475</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-10" uid="pan head tapping screw_am-10" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.023958194324063889 0.31176826245127542 0.46643034978094511</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-11" uid="pan head tapping screw_am-11" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.01170643710608478 0.31176826245127542 0.34705742803957285</Translation>
+</Transform>
+</Instance>
+<Instance name="Eje del dosificador-2" uid="Eje del dosificador-2" entityUid="Eje del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.56238844888700512 0 -0.82687316594413018 0 1 0 0.82687316594413018 0 0.56238844888700512</Rotation>
+<Translation>0.043356809919244677 -0.071931737548724575 0.65543747587147039</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-12" uid="pan head tapping screw_am-12" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.2811179238150377 0.31176826245127542 0.5576128740628159</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-1" uid="Rueda de vaso-1" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>0.19985021778573828 0.55066258383729061 0.81045086785852216 0.94000745168811217 -0.34115391067789536 0 0.27648848298222906 0.76182985501410838 -0.58580661552031676</Rotation>
+<Translation>-0.18160468457658899 0.09316826245126883 0.77609122009096887</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-4" uid="Rueda de vaso-4" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>-0.58580661552016366 -2.036304404435693e-13 0.81045086785863296 -3.4760693213195751e-13 1 0 -0.81045086785863296 -2.8171833982002188e-13 -0.58580661552016366</Rotation>
+<Translation>0.26345559920789907 0.093168262451277573 0.53829857134507875</Translation>
+</Transform>
+</Instance>
+<Instance name="Base del dosificador-1" uid="Base del dosificador-1" grounded="true" entityUid="Base del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.90761304923755015 0 0.41980775701946765 0 1 0 -0.41980775701946765 0 0.90761304923755015</Rotation>
+<Translation>0.043356809919244677 0.038168262451275407 0.65543747587147039</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-7" uid="Tapa de Vaso volumétrico-7" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.40896773232462991 0 0.91254884467476594 0 0.99999999999999989 0 -0.91254884467476605 0 0.40896773232462985</Rotation>
+<Translation>0.27149402108778314 0.1181682624512754 0.75767940895258934</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-6" uid="Rueda de vaso-6" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>-0.99477434784479668 -2.4215222586002863e-13 -0.10209797681619084 -2.4345268427989551e-13 1 2.7678683212807781e-16 0.10209797681619084 2.5131366955870439e-14 -0.99477434784479668</Rotation>
+<Translation>0.035365270227077049 0.093168262451275019 0.91058671708793215</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-5" uid="Tapa de Vaso volumétrico-5" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.99477434784477126 0 -0.10209797681643827 0 1 0 0.10209797681643827 0 -0.99477434784477126</Rotation>
+<Translation>0.01783231571513438 0.11816826245127542 0.4067438889102245</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-2" uid="pan head tapping screw_am-2" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.19440430397659295 0.31176826245127542 0.75326207768007403</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-3" uid="pan head tapping screw_am-3" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.20788295911687066 0.31176826245127542 0.83703752668280695</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincidente1">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.21650635094607573 0.010000000000000009 0.12500000000001979</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-1</Uid>
+</InstancePath>
+<Position>0 0.1769 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente8">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.26846787517312276 0 0.15500000000002434</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-1</Uid>
+</InstancePath>
+<Position>-0.059999999999984621 0.1739 1.4210854715202004e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-1</Uid>
+</InstancePath>
+<Position>0 0.1769 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente10">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.26846787517315662 0 -0.15499999999997249</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>-0.059999999999984732 0.1739 1.4224732503009818e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0 0.1769 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.16454482671902215 -0.050001000000000018 -0.094999999999975437</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0.060000000000014153 0.1739 -1.5362711103250604e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente12">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0 -0.31000000000000016</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>-0.059999999999984621 0.1739 1.4321877017664519e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente13">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>2.9976021664879227e-15 0 -0.19000000000000017</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>0.060000000000014264 0.1739 -1.532107773982716e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>0 0.1769 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente15">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.26846787517319004 0 -0.155000000000031</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-9</Uid>
+</InstancePath>
+<Position>-0.059999999999984649 0.1739 1.4210854715202004e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente16">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.16454482671905901 0 -0.095000000000027951</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-9</Uid>
+</InstancePath>
+<Position>0.060000000000014209 0.1739 -1.5432100042289676e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-9</Uid>
+</InstancePath>
+<Position>0 0.1769 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente18">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>6.7279515292284486e-14 0 0.3099999999999935</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-11</Uid>
+</InstancePath>
+<Position>-0.059999999999984677 0.1739 1.4210854715202004e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente19">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>6.3948846218409017e-14 0 0.18999999999999342</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-11</Uid>
+</InstancePath>
+<Position>0.060000000000014209 0.1739 -1.5432100042289676e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-11</Uid>
+</InstancePath>
+<Position>0 0.1769 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente21">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.26846787517322374 0 0.15499999999996592</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-10</Uid>
+</InstancePath>
+<Position>-0.059999999999984677 0.1739 1.4217793609105911e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente22">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.16454482671908932 0 0.094999999999968832</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Vaso volumétrico-10</Uid>
+</InstancePath>
+<Position>0.060000000000014153 0.1739 -1.5380058338010372e-14</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente23">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-10</Uid>
+</InstancePath>
+<Position>0 0.1769 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0.018485281374238438 0.0060000000000000053 0.062000000000000027</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-2</Uid>
+</InstancePath>
+<Position>0.062000000000000013 0.0089999999999999941 -0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente26">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>-0.0030000000000001137 0 0.051000000000000004</Position>
+<Axis>1 1.4456028966473392e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-2</Uid>
+</InstancePath>
+<Position>0 0 0.0029999999999998916</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>0.018485281374238549 0.0060000000000000053 0.062000000000000055</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-3</Uid>
+</InstancePath>
+<Position>0.061999999999999944 0.0090000000000000219 -0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente28">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>-0.0030000000000000027 0 0.051000000000000045</Position>
+<Axis>1 1.4456028966473392e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-3</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0 0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-9</Uid>
+</InstancePath>
+<Position>0.018485281374238577 0.0060000000000000053 0.062000000000000055</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-4</Uid>
+</InstancePath>
+<Position>0.062000000000000055 0.0089999999999999941 -0.0030000000000000027</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente29">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-9</Uid>
+</InstancePath>
+<Position>-0.0029999999999999749 0 0.051000000000000045</Position>
+<Axis>1.0000000000000002 1.4456028966473394e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-4</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-1</Uid>
+</InstancePath>
+<Position>0.018485281374238549 0.0060000000000000053 0.061999999999999944</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0.062000000000000055 0.009000000000000008 -0.0030000000000000027</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-11</Uid>
+</InstancePath>
+<Position>0.018485281374238549 0.0060000000000000053 0.062000000000000055</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-6</Uid>
+</InstancePath>
+<Position>0.061999999999999944 0.009000000000000008 -0.0029999999999999749</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-10</Uid>
+</InstancePath>
+<Position>0.018485281374238549 0.0060000000000000053 0.062000000000000013</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-5</Uid>
+</InstancePath>
+<Position>0.062 0.0090000000000000219 -0.0030000000000000027</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente30">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-10</Uid>
+</InstancePath>
+<Position>-0.0030000000000000582 0 0.051000000000000004</Position>
+<Axis>1 1.4456028966473392e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-5</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente31">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-11</Uid>
+</InstancePath>
+<Position>-0.0030000000000000304 0 0.051000000000000045</Position>
+<Axis>1.0000000000000002 1.4456028966473392e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-6</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000304</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente32">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-1</Uid>
+</InstancePath>
+<Position>0.0030000000000000027 0 0.067999999999999949</Position>
+<Axis>-1.0000000000000002 -1.4456028966473394e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0 0 -0.0030000000000000027</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente33">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Eje del dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.38 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente34">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Eje del dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.38 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente35">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Eje del dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.38 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base del dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.040000000000000001 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente37">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-3</Uid>
+</InstancePath>
+<Position>-0.03400000000000003 -0.024999999999999994 0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Rueda de vaso-1</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente38">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-3</Uid>
+</InstancePath>
+<Position>0 0 -0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Rueda de vaso-1</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 0.0060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distancia1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base del dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.040000000000000001 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Coincident name="Coincidente41">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-4</Uid>
+</InstancePath>
+<Position>-0.03400000000000003 -0.025000000000000008 0.0030000000000000582</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Rueda de vaso-2</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente42">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-4</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Rueda de vaso-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente43">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-5</Uid>
+</InstancePath>
+<Position>-0.033999999999999989 -0.025000000000000008 0.0029999999999999472</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Rueda de vaso-3</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente44">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-5</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Rueda de vaso-3</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente45">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-6</Uid>
+</InstancePath>
+<Position>-0.03400000000000003 -0.024999999999999994 0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Rueda de vaso-4</Uid>
+</InstancePath>
+<Position>0 0 0.0059999999999999776</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente46">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-6</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000304</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Rueda de vaso-4</Uid>
+</InstancePath>
+<Position>0 0 0.0059999999999999776</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente47">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>-0.03400000000000003 -0.024999999999999994 0.0030000000000000027</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Rueda de vaso-5</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente48">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Rueda de vaso-5</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente49">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-2</Uid>
+</InstancePath>
+<Position>-0.033999999999999996 -0.024999999999999994 0.0029999999999998916</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Rueda de vaso-6</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente50">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Rueda de vaso-6</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica9">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Eje del dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.38 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Covertor de dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>2.9976021664879227e-15 -0.050001000000000018 -0.19000000000000017</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente53">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-1</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.060000000000001719 -0.050001000000000018 -0.25000000000000167</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente54">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-2</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 -0.050001000000000018 -0.31000000000000016</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente55">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-3</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.059999999999998388 -0.050001000000000018 -0.249999999999999</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente56">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-4</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica16">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.16454482671905901 -0.050001000000000018 -0.095000000000027951</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-5</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente57">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-5</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.26846787517319004 -0.050001000000000018 -0.155000000000031</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente58">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-6</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.24650635094612605 -0.050001000000000018 -0.073038475772963962</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-7</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente59">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-7</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica19">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.18650635094612295 -0.050001000000000018 -0.17696152422709499</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-8</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente60">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-8</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.24650635094615508 -0.050001000000000018 0.073038475772900124</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-9</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente61">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-9</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica21">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.16454482671908932 -0.050001000000000018 0.094999999999968832</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-10</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente62">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-10</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000007 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica22">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.26846787517322374 -0.050001000000000018 0.15499999999996592</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-11</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente63">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-11</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000007 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica23">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.059999999999934439 -0.050001000000000018 0.2499999999999952</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-12</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente64">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-12</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047499999999999765 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica24">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>6.7279515292284486e-14 -0.050001000000000018 0.3099999999999935</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-13</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente65">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-13</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047499999999999765 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica25">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.060000000000065667 -0.050001000000000018 0.24999999999999176</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-14</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente66">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-14</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica26">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>6.3948846218409017e-14 -0.050001000000000018 0.18999999999999342</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-15</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente67">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-15</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica27">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0.18650635094615797 -0.050001000000000018 0.17696152422703459</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-16</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente68">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-16</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica28">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.16454482671902215 -0.050001000000000018 -0.094999999999975437</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-17</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente69">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-17</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica29">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.18650635094609069 -0.050001000000000018 -0.17696152422704103</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-18</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente70">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-18</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000007 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica30">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.26846787517315662 -0.050001000000000018 -0.15499999999997249</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-19</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente71">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-19</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica31">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.24650635094608786 -0.050001000000000018 -0.073038475772906675</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-20</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente72">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-20</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica32">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.26846787517312276 -0.050001000000000018 0.15500000000002434</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-22</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente74">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-22</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047499999999999765 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica33">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.24650635094605877 -0.050001000000000018 0.073038475772957412</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-23</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente75">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-23</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047499999999999765 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica34">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.16454482671899173 -0.050001000000000018 0.09500000000002129</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-24</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente76">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-24</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047500000000000042 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica35">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>-0.18650635094605572 -0.050001000000000018 0.17696152422708833</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pan head tapping screw_am-25</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente77">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Disco Dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pan head tapping screw_am-25</Uid>
+</InstancePath>
+<Position>0.0036999999999999811 0.0047499999999999765 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica44">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>0.018485281374238549 0.0060000000000000053 0.062000000000000055</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>clevis pin headed_bsi-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente87">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>-0.010000000000000009 0 0.050999999999999934</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>clevis pin headed_bsi-1</Uid>
+</InstancePath>
+<Position>0.0015999999999999348 0.0039999999999999758 0</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica45">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-9</Uid>
+</InstancePath>
+<Position>0.018485281374238577 0.0060000000000000053 0.062000000000000055</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>clevis pin headed_bsi-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente88">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-9</Uid>
+</InstancePath>
+<Position>-0.010000000000000009 0 0.050999999999999934</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>clevis pin headed_bsi-2</Uid>
+</InstancePath>
+<Position>0.0016000000000000458 0.0040000000000000036 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica46">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-10</Uid>
+</InstancePath>
+<Position>0.018485281374238549 0.0060000000000000053 0.062000000000000013</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>clevis pin headed_bsi-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-0.99999999999999978 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente89">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-10</Uid>
+</InstancePath>
+<Position>-0.010000000000000064 0 0.051000000000000004</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>clevis pin headed_bsi-3</Uid>
+</InstancePath>
+<Position>0.0016000000000000458 0.0040000000000000036 0</Position>
+<Axis>0.99999999999999978 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica47">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-11</Uid>
+</InstancePath>
+<Position>0.018485281374238549 0.0060000000000000053 0.062000000000000055</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>clevis pin headed_bsi-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.0000000000000002 0 1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente90">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-11</Uid>
+</InstancePath>
+<Position>-0.010000000000000009 0 0.051000000000000045</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>clevis pin headed_bsi-4</Uid>
+</InstancePath>
+<Position>0.0016000000000000181 0.0039999999999999689 0</Position>
+<Axis>1.0000000000000002 0 -1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica48">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0.018485281374238438 0.0060000000000000053 0.062000000000000027</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>clevis pin headed_bsi-5</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente91">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>-0.01000000000000012 0 0.051000000000000004</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>clevis pin headed_bsi-5</Uid>
+</InstancePath>
+<Position>0.0016000000000000458 0.0040000000000000036 0</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica52">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Vaso volumétrico-1</Uid>
+</InstancePath>
+<Position>0.018485281374238549 0.0060000000000000053 0.061999999999999944</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>clevis pin headed_bsi-9</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente96">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-1</Uid>
+</InstancePath>
+<Position>-0.01000000000000012 0 0.050999999999999934</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>clevis pin headed_bsi-9</Uid>
+</InstancePath>
+<Position>0.0016000000000000458 0.0040000000000000036 -1.1102230246251565e-16</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica55">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Rueda de vaso-1</Uid>
+</InstancePath>
+<Position>0 -1.1102230246251565e-16 0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-1</Uid>
+</InstancePath>
+<Position>0.017370000000000108 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica57">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-6</Uid>
+</InstancePath>
+<Position>-0.03400000000000003 -0.024999999999999994 -0.0030000000000000304</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-4</Uid>
+</InstancePath>
+<Position>0.017370000000000052 0 0</Position>
+<Axis>-1.0000000000000002 -1.1102230246251565e-16 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica58">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Rueda de vaso-3</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-5</Uid>
+</InstancePath>
+<Position>0.017370000000000052 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica59">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Rueda de vaso-2</Uid>
+</InstancePath>
+<Position>0 0 0.0060000000000000053</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-6</Uid>
+</InstancePath>
+<Position>0.017370000000000052 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica601">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-2</Uid>
+</InstancePath>
+<Position>-0.033999999999999996 -0.024999999999999994 -0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-7</Uid>
+</InstancePath>
+<Position>0.017369999999999997 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concéntrica61">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>-0.03400000000000003 -0.024999999999999994 -0.0030000000000000027</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-8</Uid>
+</InstancePath>
+<Position>0.017369999999999886 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente98">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Covertor de dosificador-2</Uid>
+</InstancePath>
+<Position>0 -0.020000000000000018 -0.17500000000000004</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Escobilla-1</Uid>
+</InstancePath>
+<Position>-0.037142857142857033 0.029999999999999971 -0.0075201599147045606</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente99">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Eje del dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.38 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000002 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente100">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>-0.13293607486307102 0.010000000000000002 -0.13293607486307091</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Columna de caja base-4</Uid>
+</InstancePath>
+<Position>0 0.070000000000000007 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente101">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>0.13293607486307102 0.010000000000000002 -0.1329360748630935</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Columna de caja base-3</Uid>
+</InstancePath>
+<Position>0 0.070000000000000007 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente102">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>-0.13293607486304826 0.010000000000000002 0.13293607486307096</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Columna de caja base-1</Uid>
+</InstancePath>
+<Position>0 0.070000000000000007 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente103">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>0.13293607486309345 0.010000000000000002 0.13293607486304829</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Columna de caja base-2</Uid>
+</InstancePath>
+<Position>0 0.070000000000000007 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente104">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Columna de caja base-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente105">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Columna de caja base-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente106">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Columna de caja base-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente107">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Columna de caja base-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente108">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base del dosificador-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Columna de caja base-4</Uid>
+</InstancePath>
+<Position>0 0.070000000000000007 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente110">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Columna de caja base-4</Uid>
+</InstancePath>
+<Position>0 -0.20000000000000001 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>-0.27293607486307081 0.010000000000000009 -0.13293607486307094</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica602">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Columna de caja base-1</Uid>
+</InstancePath>
+<Position>0 -0.20000000000000001 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>-0.27293607486306848 0.010000000000000009 0.13293607486306952</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente111">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Columna de caja base-4</Uid>
+</InstancePath>
+<Position>0 -0.20000000000000001 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente112">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0.25000000000000011 0.010000000000000009 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Columna del dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.65000000000000002 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente113">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Columna del dosificador-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente115">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>-0.29999999999999982 0.010000000000000009 0.15999999999999998</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-1</Uid>
+</InstancePath>
+<Position>-0.030851407976979273 0.50649 0.015000000000000124</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente116">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>-0.29999999999999982 0.010000000000000009 0.15999999999999998</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-2</Uid>
+</InstancePath>
+<Position>-0.030851407976979273 0.50649 0.01499999999999968</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente117">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>-0.29999999999999982 0.010000000000000009 -0.16</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-3</Uid>
+</InstancePath>
+<Position>0.019148592023020744 0.50649 0.014999999999999902</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente118">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>-0.29999999999999982 0.010000000000000009 -0.16</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-4</Uid>
+</InstancePath>
+<Position>0.019148592023020689 0.50649 0.015000000000000124</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente119">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>-0.29999999999999982 0.010000000000000009 0.15999999999999998</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-3</Uid>
+</InstancePath>
+<Position>-0.030851407976979245 0.50649 -0.035000000000000142</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente121">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0.34999999999999998 0.010000000000000009 0.15999999999999998</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-4</Uid>
+</InstancePath>
+<Position>-0.030851407976979273 0.50649 0.014999999999999902</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente122">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0.34999999999999998 0.010000000000000009 0.15999999999999998</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-2</Uid>
+</InstancePath>
+<Position>-0.030851407976979273 0.50649 0.01499999999999968</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente123">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-3</Uid>
+</InstancePath>
+<Position>0 0.50649 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente124">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-4</Uid>
+</InstancePath>
+<Position>0 0.50649 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente125">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.50649 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente126">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.50649 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente127">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base Inferior de la caja-1</Uid>
+</InstancePath>
+<Position>-0.29999999999999982 0.010000000000000009 0.15999999999999998</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pata del dosificador-1</Uid>
+</InstancePath>
+<Position>-0.030851407976979259 0.50649 -0.034999999999999976</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica605">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Covertor de dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Soporte para eje de dosificadora-3</Uid>
+</InstancePath>
+<Position>-0.37792447898453685 0.030000000000000027 0.096296875257021575</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente132">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Columna del dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.65000000000000002 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Soporte para eje de dosificadora-3</Uid>
+</InstancePath>
+<Position>0 0.030000000000000027 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente133">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Covertor de dosificador-2</Uid>
+</InstancePath>
+<Position>0 0.010000000000000009 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Soporte para eje de dosificadora-3</Uid>
+</InstancePath>
+<Position>0 0.030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente134">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base del dosificador-1</Uid>
+</InstancePath>
+<Position>0 0.027000000000000003 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Sensor de carga 5 kgf-1</Uid>
+</InstancePath>
+<Position>0 0.012700000000000045 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente135">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Base del dosificador-1</Uid>
+</InstancePath>
+<Position>-0.13995265046965483 0.027000000000000003 0.19987309880651438</Position>
+<Axis>0.81915204428899124 0 0.57357643635104683</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Sensor de carga 5 kgf-1</Uid>
+</InstancePath>
+<Position>0.0063499999999999945 0.0063499999999999668 0.039899999999999991</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente138">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-2</Uid>
+</InstancePath>
+<Position>-0.033999999999999996 -0.024999999999999994 -0.0080000000000001181</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-7</Uid>
+</InstancePath>
+<Position>0.017369999999999997 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente139">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-3</Uid>
+</InstancePath>
+<Position>-0.03400000000000003 -0.024999999999999994 -0.0079999999999998961</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-1</Uid>
+</InstancePath>
+<Position>0.017370000000000108 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente140">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-4</Uid>
+</InstancePath>
+<Position>-0.03400000000000003 -0.025000000000000008 -0.0079999999999999793</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-6</Uid>
+</InstancePath>
+<Position>0.017370000000000052 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente141">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-5</Uid>
+</InstancePath>
+<Position>-0.033999999999999989 -0.025000000000000008 -0.0080000000000000071</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-5</Uid>
+</InstancePath>
+<Position>0.00063000000000001943 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente142">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-6</Uid>
+</InstancePath>
+<Position>-0.033999999999999919 -0.024999999999999994 -0.0080000000000000071</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-4</Uid>
+</InstancePath>
+<Position>0.017370000000000052 0 0</Position>
+<Axis>-1.0000000000000002 -1.1102230246251565e-16 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente143">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>-0.033999999999999919 -0.024999999999999994 -0.0080000000000000071</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>taper pin unhardened_bsi-8</Uid>
+</InstancePath>
+<Position>0.017369999999999886 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente144">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-11</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-6</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente145">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente146">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-7</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-2</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente147">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-8</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-3</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente148">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-9</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-4</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente150">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Vaso volumétrico-10</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tapa de Vaso volumétrico-5</Uid>
+</InstancePath>
+<Position>0 0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Base Inferior de la caja" uid="Base Inferior de la caja*:*Predeterminado" version="129">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base Inferior de la caja.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>16.075219601110529</Mass>
+<CenterOfMass>0.023855154295186295 0.0050000000000000001 0</CenterOfMass>
+<Inertia>0.13769640490465526 0.70016452907179094 0.56273604449382075 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Base Inferior de la caja_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Base del dosificador" uid="Base del dosificador*:*Predeterminado" version="192">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base del dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>20.169938768806929</Mass>
+<CenterOfMass>-0.0085531269778709226 0.0098586057883363089 0.01834224108058706</CenterOfMass>
+<Inertia>0.3730291530164091 0.81504476824729499 0.44591906832656103 -0.001074364479224337 -0.043433411681969951 0.00050099044676579177</Inertia>
+</MassProperties>
+<GeometryFile name="Base del dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Base" uid="Base*:*Predeterminado" version="147">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.88036504591503528</Mass>
+<CenterOfMass>-3.1602936498495095e-15 0.0050000000000000001 -1.0131015853226577e-15</CenterOfMass>
+<Inertia>0.006631064329273597 0.013247455907781943 0.006631064329273597 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Base_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Columna de caja base" uid="Columna de caja base*:*Predeterminado" version="122">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Columna de caja base.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.59033471204064958</Mass>
+<CenterOfMass>0 -0.077793733681462141 0</CenterOfMass>
+<Inertia>0.0031760752117574748 2.7392571045815724e-05 0.0031760752117574748 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Columna de caja base_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Columna del dosificador" uid="Columna del dosificador*:*Predeterminado" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Columna del dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.5388777454344329</Mass>
+<CenterOfMass>0 0.32500000000000029 0</CenterOfMass>
+<Inertia>0.054625286850061919 0.00088793245911566879 0.054625286850061919 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Columna del dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Covertor de dosificador" uid="Covertor de dosificador*:*Predeterminado" version="250">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Covertor de dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>9.022106191500832</Mass>
+<CenterOfMass>0.18144873733183112 -0.0082571329193202262 -0.14789644314162925</CenterOfMass>
+<Inertia>0.099408240229625466 0.17812925041672562 0.08432723681087255 0.0004803769883814306 -0.055014166590249491 0.00055294078753792748</Inertia>
+</MassProperties>
+<GeometryFile name="Covertor de dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Disco Dosificador" uid="Disco Dosificador*:*Predeterminado" version="175">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Disco Dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>40.752740579880971</Mass>
+<CenterOfMass>-1.9482214680944718e-15 0.001170212765957458 -7.654948296452429e-16</CenterOfMass>
+<Inertia>1.6589626936512216 3.2945102412832812 1.6589626936512214 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Disco Dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Eje del dosificador" uid="Eje del dosificador*:*Predeterminado" version="114">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Eje del dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.8201767302756262</Mass>
+<CenterOfMass>0 0.19 0</CenterOfMass>
+<Inertia>0.046351477660677591 0.00076403534605512524 0.046351477660677591 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Eje del dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Escobilla" uid="Escobilla*:*Predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Escobilla.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.093461609806554838</Mass>
+<CenterOfMass>-0.097142857142856989 0.01313477900565546 0</CenterOfMass>
+<Inertia>1.097845943977367e-05 0.00015422724491901175 0.00015667044159807243 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Escobilla_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Pata del dosificador" uid="Pata del dosificador*:*Predeterminado" version="127">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Pata del dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>2.2424338259999996</Mass>
+<CenterOfMass>-0.0058514079769792695 0.25324499999999994 -0.010000000000000009</CenterOfMass>
+<Inertia>0.048766978334989185 0.0016579060753559988 0.048766978334989185 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Pata del dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Rueda de vaso" uid="Rueda de vaso*:*Predeterminado" version="112">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Rueda de vaso.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.003966353353927427</Mass>
+<CenterOfMass>0 0 0.0030000000000000001</CenterOfMass>
+<Inertia>2.3305193288905304e-07 2.3305193288905299e-07 4.4344611960582488e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Rueda de vaso_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Sensor de carga 5 kgf" uid="Sensor de carga 5 kgf*:*Predeterminado" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Sensor de carga 5 kgf.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.000117416676048357</Mass>
+<CenterOfMass>0.010476775849615505 0.019555699476568832 0.088576803218758729</CenterOfMass>
+<Inertia>2.0241022896389197e-07 1.8894939172950392e-07 1.3475493882648457e-08 -3.7264913038844023e-08 4.9051294540983577e-14 3.1218994975988187e-14</Inertia>
+</MassProperties>
+<GeometryFile name="Sensor de carga 5 kgf_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Soporte para eje de dosificadora" uid="Soporte para eje de dosificadora*:*Predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Soporte para eje de dosificadora.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.20971963295200391</Mass>
+<CenterOfMass>-0.020863131826298162 0.014999999999999994 0.0053160208313207911</CenterOfMass>
+<Inertia>9.5847792232224652e-05 0.00024592822755021513 0.00018153838026079109 0 2.3350383336941032e-05 0</Inertia>
+</MassProperties>
+<GeometryFile name="Soporte para eje de dosificadora_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Tapa de Vaso volumétrico" uid="Tapa de Vaso volumétrico*:*Predeterminado" version="188">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Tapa de Vaso volumétrico.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.27417357336321768</Mass>
+<CenterOfMass>-0.0018780951916334253 -0.00070908260654917621 1.6708082604526769e-09</CenterOfMass>
+<Inertia>0.00016140802397533825 0.0003877101494329617 0.00024925638122761691 2.9259430964218648e-12 2.9271590119227474e-11 -1.9453426769212985e-05</Inertia>
+</MassProperties>
+<GeometryFile name="Tapa de Vaso volumétrico_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Vaso volumétrico" uid="Vaso volumétrico*:*Predeterminado" version="173">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Vaso volumétrico.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.4007987559121235</Mass>
+<CenterOfMass>5.2943038049074695e-16 0.088091147345965681 0.00071324509690238438</CenterOfMass>
+<Inertia>0.0056737008170435642 0.0037414734009518519 0.00561554079895647 8.2018319725108097e-05 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Vaso volumétrico_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="clevis pin headed_bsi" uid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St" version="1180">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="clevis pin headed_bsi.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00052045980155353744</Mass>
+<CenterOfMass>0.011454847663055687 4.5757718992824149e-10 7.0914080129557253e-12</CenterOfMass>
+<Inertia>1.8841237271255529e-09 3.0079373345370773e-08 3.0090440498885678e-08 0 0 -1.9873489781745412e-15</Inertia>
+</MassProperties>
+<GeometryFile name="clevis pin headed_bsi_BS EN 22341 - B - 5 x 24 x 1.2 - St_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pan head tapping screw_am" uid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N" version="1549">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pan head tapping screw_am.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00057498290066467297</Mass>
+<CenterOfMass>0.0091039423877577012 1.4095689385561017e-10 1.6120690820595425e-10</CenterOfMass>
+<Inertia>3.4285817323638624e-09 3.1473509046458725e-08 3.1530785708641059e-08 0 0 5.3234299869848161e-16</Inertia>
+</MassProperties>
+<GeometryFile name="pan head tapping screw_am_PHT 4.8x20x18.4-slot-B-N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="taper pin unhardened_bsi" uid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St" version="1007">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="taper pin unhardened_bsi.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00036467729467286943</Mass>
+<CenterOfMass>0.0091941599984379421 0 0</CenterOfMass>
+<Inertia>1.2047030043918961e-09 9.7856803242900906e-09 9.7856803242900906e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="taper pin unhardened_bsi_BS EN 22339 - A - 5 x 18 - St_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

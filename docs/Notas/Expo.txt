@@ -1,0 +1,67 @@
+Ante todo buenos días, profesores presentes, voy a presentar el diseño de un prototipo de máquina de bajo costo para empaquetado de granos de café con capacidad de almacenamiento de 100 Kg para cultivos tradicionales de productores independientes en Junín.
+
+Siguiente diapositiva por favor
+
+Bueno, se sabe que el café puede ser considerado como una de las principales materias primas que es comercializada en el mundo, siendo en el Perú el principal producto agrícola de exportación. Las principales especies son la arábica y la robusta, aunque en el Perú se suele comercializar la arábica.
+
+Siguiente diapositiva por favor
+
+Según los autores Díaz y Carmen, en el Perú se mantienen los altos índices de pobreza de las familias caficultoras debido a los bajos niveles de producción, lo cual es causado por el deficiente manejo técnico del proceso de producción del café. Los agricultores usan métodos más tradicionales, lo que les genera una baja rentabilidad e impide el desarrollo de la caficultura peruana.
+
+Siguiente diapositiva por favor
+
+El proceso de producción del café, empieza por la cosecha, donde se realiza la plantación y el recojo, pasando luego por la postcosecha, donde se procesa el café separando la pulpa, se elimina la cascara, se realiza la cata, el tueste y el molido si fuera necesario, luego se empaqueta para poder ser comercializado, siendo el empaquetado muy importante debido a que este define en gran parte la calidad del café que llega al consumidor.
+
+Siguiente diapositiva por favor
+
+En una entrevista realizada a una productora de café de altura en Junín, me indicó que el proceso de empaquetado es muy trabajoso y lento, por lo que se suele derivar a una empresa de procesamiento, la cual no garantiza las mejores condiciones de empaquetado, haciendo que los costos se eleven y por lo tanto las pocas ganancias disminuyan
+
+Siguiente diapositiva por favor
+
+El objetivo general es el de diseñar un prototipo de máquina de bajo costo para realizar el empaquetado de granos de café de altura y que este pueda ser comercializado por las familias productoras en el departamento de Junín. Además como objetivos específicos, se tiene el identificar las razones de la deficiente productividad en la caficultura de Junín, revisar el estado de la tecnología de las empaquetadoras y generar propuestas conceptuales.
+
+Siguiente diapositiva por favor
+
+Aquí podemos encontrar diferentes máquinas que existen en el mercado para realizar el proceso de empaquetado.
+
+Siguente diapositiva por favor
+
+Como requerimientos, se tiene como principal función la de empaquetar, considerando las condiciones necesarias para mejorar la producción y la calidad, utilizando los empaques del material adecuado y utilizado válvulas desgasificadoras, además de que se utilizará un sensor que envíe información a la nube y esta pueda ser visualizada en una interfaz, con gráficos de la producción y las metas semanales del productor, esto debido a que no se lleva un registro de los paquetes de café producidos y por lo tanto no se puede medir si la productividad mejora o no.
+En cuanto a la geometría, las dimensiones máximas son de 2m de alto, 2m de largo y 1.5m de ancho sin considerar el almacenamiento de los granos de café.
+
+Siguiente diapositiva por favor
+
+En cuanto a la cinemática y fuerzas, el sistema debe poder soportar su propio peso, el cual debe ser de entre 20 y 50 kg. Además de que la velocidad de producción debe ser de aproximadamente 70 kg/día.
+El modo de operación, bueno el empaquetado debe ser de manera automática, además de llevar el registro de bolsas empaquetadas, subir la información y mostrarla al productor en una interfaz.
+En cuanto a la fabricación, se deben usar materiales adecuados que no dañen la calidad del café al contacto con este, además de poder desensablar el prototipo fácilmente, para lo cual se consideró la modularidad.
+
+Siguiente diapositiva por favor
+
+Aquí podemor ver la estructura de funciones, lo que entra al proceso es la señal de encendido, la energía eléctrica, la señal de inicio del proceso, las bolsas de empaquetado y los granos de café, y como salidas están los paquetes y el calor, ruido, vibraciones, además de los datos que se podrán ver en la interfaz.
+
+Siguiente diapositiva por favor
+
+Aqui podemos encontrar los 3 conceptos de solución utilizando las diferentes tecnologías, para lo cual se realiza la evaluación técnico económica, considerando criterios técnicos como robustez, transportabilidad, facilidad de mantenimiento y eficiencia en el dosificado. Además de criterios económicos como el costo de componentes, de fabricación o de mantenimiento.
+La opción escogida es el concepto 1, ya que obtiene la mejor calificación en la evaluación, para lo cual se deben plantear mejoras para que sea la solución óptima.
+
+Siguiente diapositiva por favor
+
+Bueno, se lograron identificar las razones de las deficiencias en la caficultura de Junín, se determinaron las condiciones para un empaquetado de calidad, se lograron determinar los requerimientos del sistema en base a esto y se logró proponer 3 conceptos de solución.
+
+Siguiente diapositiva por favor
+
+Bueno aquí podemos encontrar algunas referencias bibliográficas.
+
+Muchas gracias
+
+
+
+
+
+
+
+
+
+
+
+

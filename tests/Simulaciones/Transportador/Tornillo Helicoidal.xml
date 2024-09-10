@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="06/22/22||12:32:44" using="Simscape Multibody Link Version 7.4" from="SolidWorks 30.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Tornillo Helicoidal" uid="Tornillo Helicoidal" version="190">
+<AssemblyFile name="Tornillo Helicoidal.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Hélice-1" uid="Hélice-1" entityUid="Hélice*:*Predeterminado">
+<Transform>
+<Rotation>0.48317437454379702 -0.87552414231945108 5.9714184503974966e-15 0.87552414231945108 0.48317437454379702 -2.9505223159482385e-15 -3.0198285484511811e-16 6.6537377918006203e-15 0.99999999999999978</Rotation>
+<Translation>-0.18513328082563965 -0.12620446761304188 1.9367184906095642</Translation>
+</Transform>
+</Instance>
+<Instance name="Tubo Canalón-1" uid="Tubo Canalón-1" grounded="true" entityUid="Tubo Canalón*:*Predeterminado">
+<Transform>
+<Rotation>-0.32139602945677748 -0.32139602945678336 -0.89073519325264816 0.62984489539046085 0.62984489539045407 -0.45452262375064162 0.7071067811865458 -0.70710678118654924 5.8564264548977008e-15</Rotation>
+<Translation>-0.18119037547253267 -0.19458037667398026 1.874021522352044</Translation>
+</Transform>
+</Instance>
+<Instance name="Eje del tornillo helicoidal-2" uid="Eje del tornillo helicoidal-2" entityUid="Eje del tornillo helicoidal*:*Predeterminado">
+<Transform>
+<Rotation>-0.48317437454379664 -0.87552414231945164 -8.201716861897945e-15 -0.87552414231945164 0.48317437454379664 -1.0908346076209897e-15 4.9179114491825887e-15 6.6537377917921763e-15 -1</Rotation>
+<Translation>-0.18513328082563524 -0.12620446761303417 1.9367184906095651</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincidente3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hélice-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Eje del tornillo helicoidal-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hélice-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Eje del tornillo helicoidal-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincidente5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Hélice-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Eje del tornillo helicoidal-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica1">
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Eje del tornillo helicoidal-2</Uid>
+</InstancePath>
+<Position>0 0 -0.0029999999999998916</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Tubo Canalón-1</Uid>
+</InstancePath>
+<Position>-1.3255466595436287 1.4142135623731027 -0.027566313026042566</Position>
+<Axis>0.7071067811865438 -0.70710678118655124 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Eje del tornillo helicoidal-2</Uid>
+</InstancePath>
+<Position>0 0 2</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tubo Canalón-1</Uid>
+</InstancePath>
+<Position>-1.3255466595436287 1.4142135623731027 -0.027566313026042566</Position>
+<Axis>-0.7071067811865438 0.70710678118655124 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Eje del tornillo helicoidal" uid="Eje del tornillo helicoidal*:*Predeterminado" version="141">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Eje del tornillo helicoidal.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.3224981801906401</Mass>
+<CenterOfMass>0 0 0.99849999999999994</CenterOfMass>
+<Inertia>1.1110291324010608 1.1110291324010608 0.00040949790070849643 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Eje del tornillo helicoidal_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Hélice" uid="Hélice*:*Predeterminado" version="163">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Hélice.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.3224815240625345</Mass>
+<CenterOfMass>5.6979838032749847e-08 2.1135116448293545e-08 -0.99855270639073146</CenterOfMass>
+<Inertia>2.4456362444200499 2.4456362653784063 0.0096078791385376082 -0.0020239513614244285 -2.1455396685456653e-05 5.9418126358564488e-10</Inertia>
+</MassProperties>
+<GeometryFile name="Hélice_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Tubo Canalón" uid="Tubo Canalón*:*Predeterminado" version="666">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Tubo Canalón.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>78.995947298568936</Mass>
+<CenterOfMass>-0.64945656507521976 0.44897276970943206 -0.027486757414746588</CenterOfMass>
+<Inertia>15.908242022474001 14.949146783654578 30.045581151944688 0.0029626902502391389 0.0017483235798762314 8.288989747316343</Inertia>
+</MassProperties>
+<GeometryFile name="Tubo Canalón_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>

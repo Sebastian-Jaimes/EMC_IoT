@@ -1,0 +1,120 @@
+Ante todo buenos días, profesores presentes, voy a presentar el diseño de un prototipo de máquina de bajo costo para empaquetado de granos de café con capacidad de almacenamiento de 100 Kg para cultivos tradicionales de productores independientes en Junín.
+
+Siguiente diapositiva por favor
+
+Bueno, comenzando con la problemática
+
+Siguiente diapositiva por favor
+
+Se sabe que el café es una de las principales materias primas comercializadas en el mundo, por lo que como actividad económica es importante. Sin embargo, el bajo nivel de productividad y producción mantiene los altos índices de pobreza de las familias caficultoras y la renuencia al cambio impide que se desarrolle; ellos prefieren quedarse en su zona de confort por el miedo a la pérdida. Cabe resaltar en entrevistas realizadas a productores independientes de Junín, mencionaron que el costo de saco de café de alrededor de 11kg es exageradamente bajo (hablo de alrededor de 2 soles el saco de café), por lo que no logran recuperar el dinero y tiempo invertido. Siendo el empaquetado uno de los procesos que más influye en la calidad del café, por lo conversado en la entrevista, y suele hacerse manualmente o tercerizarse, lo que genera pérdidas y no entrega la calidad deseada en el café.
+
+Siguiente diapositiva por favor
+
+En cuanto a los objetivos y al alcance de la tesis
+
+Siguiente diapositiva por favor
+
+Como principal objetivo está el de diseñar una máquina de bajo costo para llevar a cabo el empaquetado de granos de café de altura que permita la comercialización directa por parte de las familias productoras en el departamento de Junín. Como objetivos específicos están los de diseñar el sistema mecánico en 3D de las partes más críticas para una verificación de esfuerzos, diseñar el sistema electrónico que permita el proceso de empaquetado a través de sensores y actuadores y desarrollar el algoritmo de control para dicho sistema.
+
+Siguiente diapositiva por favor
+
+Para el alcance, se propone la automatización del proceso de empaquetado con un volumen de producción de 70kg/día en envases de 1kg, para la exportación y el consumo local. Debido a los niveles de producción conversados con los productores.
+
+Siguiente diapositiva por favor
+
+Seguimos con la propuesta de solución, más concretamente el diseño conceptual.
+
+Siguiente diapositiva por favor
+
+Aquí se puede visualizar el concepto óptimo de solución, cuyas partes son el sistema de almacenamiento, el cual es mediante una tolva, el sistema de transporte y elevación, mediante el transportador helicoidal, el dosificador volumétrico, el sellado, la carcasa y la aplicación móvil para la visualización de data relevante.
+
+Siguiente diapositiva por favor
+
+En cuanto a los cálculos relevantes
+
+Siguiente diapositiva por favor
+
+Para la tolva, se llevó a cabo el dimensionamiento para los 100kg que se propone pueda almacenar la máquina, mediante la fórmula mostrada en pantalla.
+
+Siguiente diapositiva por favor
+
+Para el transportador helicoidal, se realizó el cálculo de la potencia necesaria para el flujo de café de producción y mediante esta el motor necesario para el correcto funcionamiento del sistema de transporte.
+
+Siguiente diapositiva por favor
+
+En cuanto al dosificado volumétrico, se llevó a cabo el cálculo del motor más adecuado considerando el momento de inercia y las RPM que cumplan con los objetivos de producción.
+
+Siguiente diapositiva por favor
+
+Para la selección de componentes
+
+Siguiente diapositiva por favor
+
+Podemos visualizar el diagrama de bloques con los sensores y actuadores necesarios para llevar a cabo el sistema de empaquetado. Así como las fuentes que fueron seleccionadas por el consumo crítico de cada componente.
+
+Siguiente diapositiva por favor
+
+Para los componentes de potencia como los contactores o las llaves diferenciales o termomagnéticas se consideró la potencia a la que serán sometidos para su correcto funcionamiento, considerando que las llaves son para la protección de toda la electrónica presente.
+
+Siguiente diapositiva por favor
+
+Siguiendo con el diseño final
+
+Siguiente diapositiva por favor
+
+Aquí se puede visualizar el modelado 3D de la empaquetadora, aunque no se pudo realizar el modelo completo.
+
+Siguiente diapositiva por favor
+
+En cuanto a la tolva, se puede ver ensamble, con las medidas calculadas y respetando el tamaño de la máquina según los requerimientos, cuyas medidas máximas son de 2m de alto, 2.5m de largo y 1.5m de ancho.
+
+Siguiente diapositiva por favor
+
+Seguidamente el transportador helicoidal, cuyo tornillo sin fin fue diseñado para poder transportar un flujo con que mejora la productividad actual de los caficultores independientes, permitiendo así que se puede escalar la producción a futuro.
+
+Siguiente diapositiva por favor
+
+Luego está el dosificador volumétrico, donde se ubicó un sensor de peso para verificar la correcta dosificación, además de que los vasos volumétricos también fueron diseñados para almacenar 1kg de café.
+
+Siguiente diapositiva por favor
+
+Aquí podemos visualizar la interfaz de usuario, la cual recibirá información mediante Wifi y un sensor de presencia  para mostrar parámetros como la cantidad de paquetes realizados o las metas semanales. Se espera en un futuro poder enviar señales a la máquina para poder controlar su funcionamiento mediante la app, esto como una opción de mejora a futuro.
+
+Siguiente diapositiva por favor
+
+En cuanto al diseño electrónico se llevó a cabo el circuito utilizando la herramienta de Kicad, donde se muestra el modelado de cómo quedará la tarjeta electrónica que controlar el sistema de empaquetado. Como se puede ver, el controlador utilizado es una placa de pruebas de arduino, por lo que otra opción de mejora a futuro sería el uso de una placa industrial.
+
+Siguiente diapositiva por favor
+
+Seguidamente las simulaciones que se llevaron a cabo.
+
+Siguiente diapositiva por favor
+
+En cuanto al circuito de potencia, aquí podemos ver como funciona, inicialmente las llaves están abiertas, pero luego de cerrar todas las llaves, solo basta con oprimir el botón de ON para que se alimenten las fuentes, que le darán energía a los motores mediante los drivers, los cuales están representados en el diagrama como bombillas azules como se puede ver, de igual manera la parte digital del sistema electrico y también se puede ver el apagado y la parada de emergencia en funcionamiento.
+
+Siguiente diapositiva por favor
+
+Luego podemos ver el análisis estático de fuerzas que se llevó a cabo, donde se ve que la tolva soporta los esfuerzos satisfactoriamente. Además del análisis de deformaciones unitarias.
+
+Siguiente diapositiva por favor
+
+Finalmente el análisis del factor de seguridad, con lo que utilizando los valores brindados del mismo software se calculó el límite máximo y se verificó que la tolva soporta todos los esfuerzos a los que estará sometida.
+
+Siguiente diapositiva por favor
+
+En cuanto a las conclusiones, el sistema apunta a ser funcional cuando se lleve a cabo una implementación, se verificó y profundizó sobre la problemática con información de primera mano. El costo es bajo en comparación con las máquinas industriales actualmente existentes y las simulaciones que se llevaron a cabo mostraron el correcto funcionamiento del circuito de potencia, además del análisis de esfuerzos más crítico que es el de la tolva.
+
+Siguiente diapositiva por favor
+
+Para las recomendaciones, se considera realizar el modelado 3D completo del sistema para una retroalimentación más completa, además de que el uso de un controlador con el wifi integrado reduciría el espacio y facilitaría la programación. Se espera llevar a cabo prototipos para mostrar el funcionamiento en un contexto real y lo que mencioné anteriormente, sobre utilizar un microcontrolador industrial.
+
+Siguiente diapositiva por favor
+
+Bueno aquí podemos encontrar algunas referencias bibliográficas.
+
+Siguiente diapositiva por favor
+
+Muchas gracias!
+
+
+

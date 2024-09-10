@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="06/22/22||13:45:29" using="Simscape Multibody Link Version 7.4" from="SolidWorks 30.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Maquina_completa" uid="Maquina_completa" version="152">
+<AssemblyFile name="Maquina_completa.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Tolva ensamblada-1" uid="Tolva ensamblada-1" grounded="true" entityUid="Tolva ensamblada" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.058755951273104068 -0.032436133693990114 0.016521486455226331</Translation>
+</Transform>
+<Instance name="Base de la pata-1" uid="Base de la pata-1" entityUid="Base de la pata*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.3288934793809527 -0.55462120489284095 1.5349999999999999</Translation>
+</Transform>
+</Instance>
+<Instance name="Tolva-1" uid="Tolva-1" grounded="true" entityUid="Tolva*:*Predeterminado&lt;Como mecanizada&gt;">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.0061065206190473453 0.25417879510715868 1.2</Translation>
+</Transform>
+</Instance>
+<Instance name="Base de la pata-4" uid="Base de la pata-4" entityUid="Base de la pata*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.34110652061904728 -0.55462120489284128 0.86499999999999999</Translation>
+</Transform>
+</Instance>
+<Instance name="Base de la pata-3" uid="Base de la pata-3" entityUid="Base de la pata*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.3288934793809527 -0.55462120489284117 0.86499999999999999</Translation>
+</Transform>
+</Instance>
+<Instance name="Soporte-2" uid="Soporte-2" entityUid="Soporte" rigid="true">
+<Transform>
+<Rotation>0.99756674883896379 0 0.069717871531337808 0 1 0 -0.069717871531337808 0 0.99756674883896379</Rotation>
+<Translation>-0.34003424443834734 -0.63957250142822419 1.4355346863370786</Translation>
+</Transform>
+<Instance name="Goma de sopote-1" uid="Goma de sopote-1" grounded="true" entityUid="Goma de sopote*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.0041791468181082703 -0.0096487034646167702 0.099999999999999867</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut heavy_am-1" uid="hex nut heavy_am-1" entityUid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N">
+<Transform>
+<Rotation>-0.93652480191615861 -0.35060133399047405 0 0 0 -0.99999999999999978 0.35060133399047405 -0.93652480191615861 0</Rotation>
+<Translation>0.0041791468181082703 0.020351296535383256 0.099999999999999867</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut heavy_am-2" uid="hex nut heavy_am-2" entityUid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N">
+<Transform>
+<Rotation>0.68943419032501096 0.72434832588396092 0 0 0 -0.99999999999999989 -0.72434832588396092 0.68943419032501096 0</Rotation>
+<Translation>0.0041791468181082703 0.07265129653538327 0.099999999999999867</Translation>
+</Transform>
+</Instance>
+<Instance name="Tornillo roscado de sopote-1" uid="Tornillo roscado de sopote-1" entityUid="Tornillo roscado de sopote*:*Predeterminado">
+<Transform>
+<Rotation>0.41470334324923791 0 -0.90995666770341577 0 1 0 0.90995666770341577 0 0.41470334324923791</Rotation>
+<Translation>0.0041791468181082703 -0.0096487034646167702 0.099999999999999867</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Soporte-4" uid="Soporte-4" entityUid="Soporte" rigid="true">
+<Transform>
+<Rotation>0.99956507563071972 0 -0.029489991172499716 0 1 0 0.029489991172499716 0 0.99956507563071972</Rotation>
+<Translation>0.33987819053098267 -0.63957250142822442 1.4349202494341526</Translation>
+</Transform>
+<Instance name="Goma de sopote-1" uid="Goma de sopote-1" grounded="true" entityUid="Goma de sopote*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.0041791468181082703 -0.0096487034646167702 0.10000000000000009</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut heavy_am-1" uid="hex nut heavy_am-1" entityUid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N">
+<Transform>
+<Rotation>-0.93652480191615861 -0.35060133399047405 0 0 0 -1 0.35060133399047405 -0.93652480191615861 0</Rotation>
+<Translation>0.0041791468181082703 0.020351296535383256 0.10000000000000009</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut heavy_am-2" uid="hex nut heavy_am-2" entityUid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N">
+<Transform>
+<Rotation>0.68943419032501119 0.72434832588396092 0 0 0 -1 -0.72434832588396092 0.68943419032501119 0</Rotation>
+<Translation>0.0041791468181082703 0.07265129653538327 0.10000000000000009</Translation>
+</Transform>
+</Instance>
+<Instance name="Tornillo roscado de sopote-1" uid="Tornillo roscado de sopote-1" entityUid="Tornillo roscado de sopote*:*Predeterminado">
+<Transform>
+<Rotation>0.41470334324923797 0 -0.90995666770341577 0 1 0 0.90995666770341577 0 0.41470334324923797</Rotation>
+<Translation>0.0041791468181082703 -0.0096487034646167702 0.10000000000000009</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Base de la pata-2" uid="Base de la pata-2" entityUid="Base de la pata*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.34110652061904734 -0.55462120489284117 1.5349999999999999</Translation>
+</Transform>
+</Instance>
+<Instance name="Soporte-1" uid="Soporte-1" entityUid="Soporte" rigid="true">
+<Transform>
+<Rotation>0.99152468524489989 0 -0.12991843037076167 0 1 0 0.12991843037076167 0 0.99152468524489989</Rotation>
+<Translation>-0.32004536357729346 -0.63957250142822442 0.76530458328061213</Translation>
+</Transform>
+<Instance name="Goma de sopote-1" uid="Goma de sopote-1" grounded="true" entityUid="Goma de sopote*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.0041791468181083813 -0.0096487034646167702 0.10000000000000009</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut heavy_am-1" uid="hex nut heavy_am-1" entityUid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N">
+<Transform>
+<Rotation>-0.93652480191615861 -0.35060133399047411 0 0 0 -1 0.35060133399047411 -0.93652480191615861 0</Rotation>
+<Translation>0.0041791468181083813 0.020351296535383256 0.10000000000000009</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut heavy_am-2" uid="hex nut heavy_am-2" entityUid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N">
+<Transform>
+<Rotation>0.68943419032501096 0.7243483258839607 0 0 0 -0.99999999999999978 -0.7243483258839607 0.68943419032501096 0</Rotation>
+<Translation>0.0041791468181083258 0.07265129653538327 0.10000000000000009</Translation>
+</Transform>
+</Instance>
+<Instance name="Tornillo roscado de sopote-1" uid="Tornillo roscado de sopote-1" entityUid="Tornillo roscado de sopote*:*Predeterminado">
+<Transform>
+<Rotation>0.41470334324923791 0 -0.90995666770341599 0 1 0 0.90995666770341599 0 0.41470334324923791</Rotation>
+<Translation>0.0041791468181083813 -0.0096487034646167702 0.10000000000000009</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Soporte-3" uid="Soporte-3" entityUid="Soporte" rigid="true">
+<Transform>
+<Rotation>0.9745240584800956 0 -0.22428298964362736 0 1 0 0.22428298964362736 0 0.9745240584800956</Rotation>
+<Translation>0.359462140465243 -0.63957250142822453 0.76661028260946518</Translation>
+</Transform>
+<Instance name="Goma de sopote-1" uid="Goma de sopote-1" grounded="true" entityUid="Goma de sopote*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.0041791468181082703 -0.0096487034646167702 0.099999999999999978</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut heavy_am-1" uid="hex nut heavy_am-1" entityUid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N">
+<Transform>
+<Rotation>-0.93652480191615861 -0.350601333990474 0 0 0 -1 0.350601333990474 -0.93652480191615861 0</Rotation>
+<Translation>0.0041791468181082703 0.020351296535383256 0.099999999999999978</Translation>
+</Transform>
+</Instance>
+<Instance name="hex nut heavy_am-2" uid="hex nut heavy_am-2" entityUid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N">
+<Transform>
+<Rotation>0.68943419032501096 0.72434832588396092 0 0 0 -1 -0.72434832588396092 0.68943419032501096 0</Rotation>
+<Translation>0.0041791468181082703 0.07265129653538327 0.099999999999999978</Translation>
+</Transform>
+</Instance>
+<Instance name="Tornillo roscado de sopote-1" uid="Tornillo roscado de sopote-1" entityUid="Tornillo roscado de sopote*:*Predeterminado">
+<Transform>
+<Rotation>0.41470334324923797 0 -0.90995666770341599 0 1 0 0.90995666770341599 0 0.41470334324923797</Rotation>
+<Translation>0.0041791468181082703 -0.0096487034646167702 0.099999999999999978</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="Tornillo Helicoidal-1" uid="Tornillo Helicoidal-1" grounded="true" entityUid="Tornillo Helicoidal" rigid="true">
+<Transform>
+<Rotation>0.89073519325264816 0.45452262375064156 -6.0507154842071031e-15 -0.32139602945678342 0.62984489539045396 -0.70710678118654924 -0.32139602945677742 0.62984489539046096 0.70710678118654569</Rotation>
+<Translation>0.1679286127242044 0.81499757769644177 -0.062252004546063319</Translation>
+</Transform>
+<Instance name="Hélice-1" uid="Hélice-1" entityUid="Hélice*:*Predeterminado">
+<Transform>
+<Rotation>0.48317437454379702 -0.87552414231945108 5.9227106228022424e-15 0.87552414231945119 0.48317437454379697 -2.8247352901151708e-15 -3.8857805861880489e-16 6.5503158452884236e-15 0.99999999999999989</Rotation>
+<Translation>-0.18513328082563962 -0.12620446761304183 1.936718490609564</Translation>
+</Transform>
+</Instance>
+<Instance name="Tubo Canalón-1" uid="Tubo Canalón-1" grounded="true" entityUid="Tubo Canalón*:*Predeterminado">
+<Transform>
+<Rotation>-0.32139602945677753 -0.32139602945678336 -0.89073519325264816 0.62984489539046085 0.62984489539045407 -0.45452262375064162 0.7071067811865458 -0.70710678118654913 5.8286708792820718e-15</Rotation>
+<Translation>-0.18119037547253264 -0.19458037667398032 1.8740215223520438</Translation>
+</Transform>
+</Instance>
+<Instance name="Eje del tornillo helicoidal-2" uid="Eje del tornillo helicoidal-2" entityUid="Eje del tornillo helicoidal*:*Predeterminado">
+<Transform>
+<Rotation>-0.48317437454379636 -0.87552414231945141 -8.2434059578417873e-15 -0.87552414231945141 0.48317437454379664 -9.9920072216264089e-16 4.9404924595819466e-15 6.6058269965196814e-15 -0.99999999999999989</Rotation>
+<Translation>-0.18513328082563518 -0.12620446761303433 1.9367184906095649</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Caja negra-1" uid="Caja negra-1" grounded="true" entityUid="Caja negra*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.055639728218422391 -0.68165733858683142 -0.7064626621600294</Translation>
+</Transform>
+</Instance>
+<Instance name="Copia de Dosificador Volumétrico^Maquina_completa-1" uid="Copia de Dosificador Volumétrico^Maquina_completa-1" grounded="true" entityUid="Copia de Dosificador Volumétrico^Maquina_completa" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.096019510508900618 0.056661889740241729 -0.92984908908770503</Translation>
+</Transform>
+<Instance name="Vaso volumétrico-1" uid="Vaso volumétrico-1" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.86475479767755714 0 0.50219432483217796 0 1 0 -0.50219432483217796 0 -0.86475479767755714</Rotation>
+<Translation>0.25954550933850823 0.12116826245127565 0.78098605707948177</Translation>
+</Transform>
+</Instance>
+<Instance name="Disco Dosificador-1" uid="Disco Dosificador-1" entityUid="Disco Dosificador*:*Predeterminado">
+<Transform>
+<Rotation>-0.49780246041734683 0 0.86729044177970505 0 1 0 -0.86729044177970505 0 -0.49780246041734683</Rotation>
+<Translation>0.043356809919261149 0.29806826245127566 0.65543747587146928</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-18" uid="pan head tapping screw_am-18" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.017276908221216858 0.31176826245127542 0.9052845335376497</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-25" uid="pan head tapping screw_am-25" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.28967716882857186 0.31176826245127548 0.72910076921875344</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-5" uid="clevis pin headed_bsi-5" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>0.0025356441023120504 0.01693700231831494 0.99985334347665999 0 0.99985655776620308 -0.016937056766729588 -0.99999678524932611 4.2946348101082463e-05 0.0025352803838579064</Rotation>
+<Translation>0.10469328610758194 0.12716826245127544 0.91719384482702238</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-19" uid="pan head tapping screw_am-19" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.042570760247621034 0.31176826245127537 0.96543647929873089</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-4" uid="clevis pin headed_bsi-4" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>-0.86729044177986681 -0.067635393068215213 -0.49318631692474152 0 0.9907269572583951 -0.13586793647333412 0.49780246041706516 -0.1178369626476768 -0.85924802044385673</Rotation>
+<Translation>0.23937623694289148 0.12716826245128568 0.47144034483590741</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-2" uid="clevis pin headed_bsi-2" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>0.86475479767757302 -0.34964984718611125 -0.36047763350359074 0 0.71780507201883181 -0.69624412283626458 0.50219432483215098 0.6020804455774732 0.62072537982558063</Rotation>
+<Translation>-0.21399909329285088 0.12716826245121723 0.57767823795144002</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-20" uid="pan head tapping screw_am-20" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.1027227060087024 0.31176826245127542 0.90558881082989306</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-3" uid="clevis pin headed_bsi-3" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>-0.0025356441021562553 -0.67044918070953641 -0.74195112143246911 0 0.74195350662800441 -0.67045133604342066 0.99999678524932645 -0.0017000259760212846 -0.0018813300331554613</Rotation>
+<Translation>-0.017979666269118649 0.12716826245127552 0.39368110691586911</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-1" uid="clevis pin headed_bsi-1" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>0.86729044177980463 0.00062372784118957581 0.497802069663206 0 0.99999921504211353 -0.0012529625519867328 -0.49780246041717319 0.001086682445246125 0.86728976099333255</Rotation>
+<Translation>-0.15266261710444071 0.12716826245126839 0.83943460690700467</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-14" uid="pan head tapping screw_am-14" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.23031127273909469 0.31176826245127554 0.47894943426030334</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna de caja base-3" uid="Columna de caja base-3" grounded="true" entityUid="Columna de caja base*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.17628212512208161 -0.031831737548724585 0.78838430952399596</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-22" uid="pan head tapping screw_am-22" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.31143079719931371 0.31176826245127542 0.81111771656933251</Translation>
+</Transform>
+</Instance>
+<Instance name="Base-1" uid="Base-1" grounded="true" entityUid="Base*:*Predeterminado">
+<Transform>
+<Rotation>-8.0935328282736143e-05 0 -0.99999999672473627 0 1 0 0.99999999672473627 0 -8.0935328282736143e-05</Rotation>
+<Translation>0.043356809919172998 -0.031831737548724585 0.65543747587148293</Translation>
+</Transform>
+</Instance>
+<Instance name="Pata del dosificador-1" uid="Pata del dosificador-1" grounded="true" entityUid="Pata del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.99999999672473627 0 -8.0935328210245518e-05 0 1 0 8.0935328210245518e-05 0 0.99999999672473627</Rotation>
+<Translation>-0.085781664764766175 -0.73832173754872454 0.53042702359720584</Translation>
+</Transform>
+</Instance>
+<Instance name="Pata del dosificador-3" uid="Pata del dosificador-3" grounded="true" entityUid="Pata del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.99999999672473627 0 -8.0935328210245518e-05 0 1 0 8.0935328210245518e-05 0 0.99999999672473627</Rotation>
+<Translation>0.18421833435091259 -0.73832173754872454 0.53044887613582259</Translation>
+</Transform>
+</Instance>
+<Instance name="Soporte para eje de dosificadora-3" uid="Soporte para eje de dosificadora-3" grounded="true" entityUid="Soporte para eje de dosificadora*:*Predeterminado">
+<Transform>
+<Rotation>-0.24699349329066159 0 -0.96901713827572544 0 1 0 0.96901713827572544 0 -0.24699349329066159</Rotation>
+<Translation>0.0433252451412676 0.33806826245127541 1.0454374745941166</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-15" uid="pan head tapping screw_am-15" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.20814199385734961 0.31176826245127542 0.56085500839211844</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-17" uid="pan head tapping screw_am-17" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.042875037539873331 0.31176826245127542 0.84543686506881188</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-1" uid="taper pin unhardened_bsi-1" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>0.86729044177980452 0.31702341032083087 0.38380131175641058 0 0.77099119083255163 -0.63684580838583194 -0.4978024604171733 0.55233028250056504 0.66867329050550128</Rotation>
+<Translation>-0.1985175956193091 0.093168262451275602 0.75506462500941329</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-24" uid="pan head tapping screw_am-24" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.20766022147799768 0.31176826245127542 0.75085439758948769</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-13" uid="pan head tapping screw_am-13" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.31221684687091789 0.31176826245127554 0.50111871314204459</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-16" uid="pan head tapping screw_am-16" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.10399052805966716 0.31176826245127554 0.40559041820523623</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-23" uid="pan head tapping screw_am-23" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.22941384984873467 0.31176826245127542 0.83287134494007442</Translation>
+</Transform>
+</Instance>
+<Instance name="clevis pin headed_bsi-9" uid="clevis pin headed_bsi-9" entityUid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St">
+<Transform>
+<Rotation>-0.86475479767755747 3.6777645962423915e-13 0.50219432483217796 0 1 -7.3233893750005016e-13 -0.50219432483217796 -6.3329360894056325e-13 -0.86475479767755747</Rotation>
+<Translation>0.30071271313118825 0.12716826245146584 0.73319671379148321</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-5" uid="taper pin unhardened_bsi-5" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>0.0025356441021824562 -0.19488995491744529 0.98082183702304637 0 0.98082499013084423 0.19489058144207333 -0.99999678524932634 -0.00049417315340450133 0.0024870231014984443</Rotation>
+<Translation>0.077968729034619974 0.093168262451275796 0.41415446371527198</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-6" uid="taper pin unhardened_bsi-6" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>0.86475479767759289 -0.053827407898354988 -0.49930126181748224 0 0.99423915629551984 -0.10718442092381163 0.50219432483211701 0.0926882422301607 0.85977308044547274</Rotation>
+<Translation>-0.16386003491011786 0.093168262451275408 0.49578167071876439</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-8" uid="taper pin unhardened_bsi-8" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>-0.86475479767760355 -0.055753053896092274 -0.49908990860848551 0 -0.99381829688208723 0.11101888480068457 -0.50219432483209814 0.096004113264209198 0.85940914024857007</Rotation>
+<Translation>0.25057365474852789 0.093168262451275491 0.81509328102417311</Translation>
+</Transform>
+</Instance>
+<Instance name="Escobilla-1" uid="Escobilla-1" grounded="true" entityUid="Escobilla*:*Predeterminado">
+<Transform>
+<Rotation>0.28113062372071101 0 -0.95966951207507056 0 1 0 0.95966951207507056 0 0.28113062372071101</Rotation>
+<Translation>0.13405710325180592 0.30806826245127544 0.99180234751267748</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-4" uid="taper pin unhardened_bsi-4" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>-0.86729044177983416 0.41364059504813605 0.27696344113540405 0 -0.55637218205657091 0.83093320732391585 0.49780246041712223 0.72066042846949352 0.48253627556985368</Rotation>
+<Translation>0.28523121545780988 0.093168262451275491 0.55581032673348985</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna de caja base-1" uid="Columna de caja base-1" grounded="true" entityUid="Columna de caja base*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.089568505283576211 -0.031831737548724592 0.52249064221897346</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna de caja base-2" uid="Columna de caja base-2" grounded="true" entityUid="Columna de caja base*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.089590023733258806 -0.031831737548724585 0.78836279107430662</Translation>
+</Transform>
+</Instance>
+<Instance name="taper pin unhardened_bsi-7" uid="taper pin unhardened_bsi-7" entityUid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St">
+<Transform>
+<Rotation>0.0025356441022752248 -0.45734010317101509 0.88928825503349151 2.809426828062568e-16 0.88929111388269899 0.45734157341014636 -0.99999678524932623 -0.0011596554633424622 0.0022549257681225591</Rotation>
+<Translation>0.0086992492100278901 0.09316826245127538 0.91472043016209426</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna de caja base-4" uid="Columna de caja base-4" grounded="true" entityUid="Columna de caja base*:*Predeterminado">
+<Transform>
+<Rotation>0.59333188279448734 0 0.8049579348385536 0 1 0 -0.8049579348385536 0 0.59333188279448734</Rotation>
+<Translation>0.17630364357175288 -0.031831737548724585 0.52251216066866102</Translation>
+</Transform>
+</Instance>
+<Instance name="Columna del dosificador-1" uid="Columna del dosificador-1" grounded="true" entityUid="Columna del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.043325245141263825 -0.2318317375487246 1.0454374745941268</Translation>
+</Transform>
+</Instance>
+<Instance name="Base Inferior de la caja-1" uid="Base Inferior de la caja-1" grounded="true" entityUid="Base Inferior de la caja*:*Predeterminado">
+<Transform>
+<Rotation>-8.0935328210245518e-05 0 -0.99999999672473627 0 1 0 0.99999999672473627 0 -8.0935328210245518e-05</Rotation>
+<Translation>0.043345478973283162 -0.2318317375487246 0.79543747541294418</Translation>
+</Transform>
+</Instance>
+<Instance name="Pata del dosificador-2" uid="Pata del dosificador-2" grounded="true" entityUid="Pata del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.99999999672473627 0 -8.0935328210245518e-05 0 1 0 8.0935328210245518e-05 0 0.99999999672473627</Rotation>
+<Translation>-0.085830225961692319 -0.73832173754872454 1.1304270216320478</Translation>
+</Transform>
+</Instance>
+<Instance name="Pata del dosificador-4" uid="Pata del dosificador-4" grounded="true" entityUid="Pata del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.99999999672473627 0 -8.0935328210245518e-05 0 1 0 8.0935328210245518e-05 0 0.99999999672473627</Rotation>
+<Translation>0.18416977315398647 -0.73832173754872454 1.1304488741706649</Translation>
+</Transform>
+</Instance>
+<Instance name="Sensor de carga 5 kgf-1" uid="Sensor de carga 5 kgf-1" grounded="true" entityUid="Sensor de carga 5 kgf*:*Predeterminado">
+<Transform>
+<Rotation>0 0.17669907599650816 -0.98426492193005666 1 0 0 0 -0.98426492193005666 -0.17669907599650816</Rotation>
+<Translation>0.037563632371686501 0.065168262451275411 0.91351478153591292</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-9" uid="Vaso volumétrico-9" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.86475479767757291 0 -0.50219432483215087 0 1 0 0.50219432483215087 0 0.86475479767757291</Rotation>
+<Translation>-0.17283188950019152 0.12116826245127565 0.52988889466347289</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-5" uid="pan head tapping screw_am-5" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.12094660163954724 0.31176826245127542 0.56002055415339735</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-11" uid="Vaso volumétrico-11" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.86729044177986658 0 -0.49780246041706511 0 1 0 0.49780246041706511 0 -0.86729044177986658</Rotation>
+<Translation>0.2601794203641043 0.12116826245127565 0.53098686076709922</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-2" uid="Rueda de vaso-2" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>0.5021943248321169 -1.9065751478806076e-13 0.86475479767759256 3.7971266266032191e-13 1 0 -0.86475479767759256 3.2837694744196558e-13 0.5021943248321169</Rotation>
+<Translation>-0.15835154684891745 0.093168262451185535 0.49898064856795538</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-5" uid="Tapa de Vaso volumétrico-5" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.99999678524932645 0 0.0025356441021831449 0 1 0 -0.0025356441021831449 0 -0.99999678524932645</Rotation>
+<Translation>0.043990720944744537 0.11816826245127562 0.40543827955909617</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-1" uid="Rueda de vaso-1" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>0.16982725611639049 0.46793802226082087 0.86729044177980508 0.94000745168811661 -0.34115391067788314 0 0.29587952590672939 0.81525947805089549 -0.49780246041717247</Rotation>
+<Translation>-0.19299295550518042 0.093168262451269523 0.7518936233365614</Translation>
+</Transform>
+</Instance>
+<Instance name="Eje del dosificador-2" uid="Eje del dosificador-2" entityUid="Eje del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.56238844888700512 0 -0.82687316594413018 0 1 0 0.82687316594413018 0 0.56238844888700512</Rotation>
+<Translation>0.043356809919244677 -0.071931737548724575 0.65543747587147039</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-2" uid="pan head tapping screw_am-2" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.20333394815072631 0.31176826245127548 0.72785066446901792</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-1" uid="pan head tapping screw_am-1" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.121428374018899 0.31176826245127542 0.75001994335076749</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-8" uid="Vaso volumétrico-8" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.86729044177980463 0 0.4978024604171733 0 1 0 -0.4978024604171733 0 0.86729044177980463</Rotation>
+<Translation>-0.17346580052566035 0.12116826245127565 0.77988809097581624</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-4" uid="Rueda de vaso-4" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>-0.49780246041712095 -1.7130858748224338e-13 0.86729044177983483 -3.4412965202843661e-13 1 0 -0.86729044177983483 -2.9846035793728364e-13 -0.49780246041712095</Rotation>
+<Translation>0.27450283269298431 0.0931682624512781 0.56196814316885413</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-10" uid="Vaso volumétrico-10" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.0025356441021560983 0 -0.99999678524932623 0 1 0 0.99999678524932623 0 -0.0025356441021560983</Rotation>
+<Translation>0.043990720944755472 0.12116826245127565 0.40543827955909495</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-3" uid="Tapa de Vaso volumétrico-3" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.4978024604171733 0 -0.86729044177980463 0 1 0 0.86729044177980463 0 0.4978024604171733</Rotation>
+<Translation>-0.17346580052566035 0.11816826245127562 0.77988809097581624</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-4" uid="Tapa de Vaso volumétrico-4" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.50219432483211701 2.8989527914256223e-16 -0.86475479767759267 5.1347814888912031e-16 1 0 0.86475479767759267 -4.2543202523551119e-16 -0.50219432483211701</Rotation>
+<Translation>-0.1728318895001707 0.11816826245127593 0.52988889466347955</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-7" uid="Tapa de Vaso volumétrico-7" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.50219432483209825 0 0.86475479767760333 0 0.99999999999999989 0 -0.86475479767760344 0 0.50219432483209825</Rotation>
+<Translation>0.25954550933858006 0.11816826245127562 0.7809860570794579</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-6" uid="Rueda de vaso-6" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>-0.999996785249326 -2.4312711169959476e-13 0.0025356441022754109 -2.4312719145999888e-13 1 2.7678683212740318e-16 -0.0025356441022754109 -3.3969808680158286e-16 -0.999996785249326</Rotation>
+<Translation>0.0087154012629593741 0.09316826245127538 0.90835045064005615</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-3" uid="Rueda de vaso-3" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>-0.99999678524932623 7.9907827163611118e-14 0.0025356441021828404 7.9908085830387535e-14 1 0 -0.0025356441021828404 2.0332132462155185e-16 -0.99999678524932623</Rotation>
+<Translation>0.077983004710914655 0.093168262451276102 0.40852448181431844</Translation>
+</Transform>
+</Instance>
+<Instance name="Covertor de dosificador-2" uid="Covertor de dosificador-2" grounded="true" entityUid="Covertor de dosificador*:*Predeterminado">
+<Transform>
+<Rotation>-0.95966951207507079 0 -0.2811306237207109 0 1 0 0.2811306237207109 0 -0.95966951207507079</Rotation>
+<Translation>0.043356809919244718 0.35806826245127543 0.6554374758714705</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-3" uid="pan head tapping screw_am-3" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.22550322703246772 0.31176826245127542 0.80975623860084123</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-2" uid="Tapa de Vaso volumétrico-2" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.99999678524932623 -3.3810107618620567e-16 -0.0025356441022755687 3.3740032794567807e-16 1 -2.7678683212740017e-16 0.0025356441022755687 2.7593041517508403e-16 0.99999678524932623</Rotation>
+<Translation>0.042722898893743241 0.11816826245127537 0.90543667218378543</Translation>
+</Transform>
+</Instance>
+<Instance name="Tapa de Vaso volumétrico-6" uid="Tapa de Vaso volumétrico-6" entityUid="Tapa de Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>-0.4978024604171209 0 0.86729044177983494 0 1 0 -0.86729044177983494 0 -0.4978024604171209</Rotation>
+<Translation>0.26017942036413833 0.11816826245127562 0.53098686076708246</Translation>
+</Transform>
+</Instance>
+<Instance name="Rueda de vaso-5" uid="Rueda de vaso-5" entityUid="Rueda de vaso*:*Predeterminado">
+<Transform>
+<Rotation>0.50219432483209825 -9.5603768652996106e-14 0.86475479767760377 1.9036356785470628e-13 1 0 -0.86475479767760377 1.6461533163726037e-13 0.50219432483209825</Rotation>
+<Translation>0.23987663790126787 0.093168262451395673 0.80888113722597932</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-4" uid="pan head tapping screw_am-4" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.14359765290064508 0.31176826245127542 0.83192551748258281</Translation>
+</Transform>
+</Instance>
+<Instance name="Vaso volumétrico-7" uid="Vaso volumétrico-7" entityUid="Vaso volumétrico*:*Predeterminado">
+<Transform>
+<Rotation>0.0025356441023120639 0 0.999996785249326 0 1 0 -0.999996785249326 0 0.0025356441023120639</Rotation>
+<Translation>0.042722898893710275 0.12116826245127565 0.90543667218378698</Translation>
+</Transform>
+</Instance>
+<Instance name="Base del dosificador-1" uid="Base del dosificador-1" grounded="true" entityUid="Base del dosificador*:*Predeterminado">
+<Transform>
+<Rotation>0.90761304923755015 0 0.41980775701946765 0 1 0 -0.41980775701946765 0 0.90761304923755015</Rotation>
+<Translation>0.043356809919244677 0.038168262451275407 0.65543747587147039</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-6" uid="pan head tapping screw_am-6" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.22471717736086355 0.31176826245127554 0.49975723517355325</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-7" uid="pan head tapping screw_am-7" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.14270023001028445 0.31176826245127554 0.47800360680281145</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-8" uid="pan head tapping screw_am-8" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.20296354899012164 0.31176826245127548 0.58177418252413238</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-9" uid="pan head tapping screw_am-9" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>-0.016009086170252124 0.31176826245127554 0.40528614091299275</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-10" uid="pan head tapping screw_am-10" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.043838582298577157 0.31176826245127542 0.46543808667407349</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-11" uid="pan head tapping screw_am-11" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.044142859590829267 0.31176826245127559 0.34543847244415493</Translation>
+</Transform>
+</Instance>
+<Instance name="pan head tapping screw_am-12" uid="pan head tapping screw_am-12" entityUid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N">
+<Transform>
+<Rotation>0 1 0 -1 0 0 0 0 1</Rotation>
+<Translation>0.29004756798917669 0.31176826245127548 0.58302428727386779</Translation>
+</Transform>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Parallel name="Paralelo2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tolva ensamblada-1</Uid>
+<Uid>Tolva-1</Uid>
+</InstancePath>
+<Position>0.32499999999999996 0.3962 0.32499999999999996</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tornillo Helicoidal-1</Uid>
+<Uid>Tubo Canalón-1</Uid>
+</InstancePath>
+<Position>0.1009019939096536 0.10090199390965332 -0.1085663130260428</Position>
+<Axis>-1.266467725606414e-16 1.2664677256068277e-16 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincidente1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tolva ensamblada-1</Uid>
+<Uid>Tolva-1</Uid>
+</InstancePath>
+<Position>0 -0.49619999999999997 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tornillo Helicoidal-1</Uid>
+<Uid>Tubo Canalón-1</Uid>
+</InstancePath>
+<Position>0 0.30000000000000004 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concéntrica2">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Tornillo Helicoidal-1</Uid>
+<Uid>Tubo Canalón-1</Uid>
+</InstancePath>
+<Position>-1.2223090694903973 1.0030000000000001 -0.027566313026042712</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Maquina_completa</Uid>
+</InstancePath>
+<Position>-0.052662700589610645 0.47639566891424001 -0.023337324734707066</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincidente2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tornillo Helicoidal-1</Uid>
+<Uid>Tubo Canalón-1</Uid>
+</InstancePath>
+<Position>0 -0.10719999999999996 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Caja negra-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="Tolva ensamblada" uid="Tolva ensamblada" version="197">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Tolva ensamblada.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Soporte" uid="Soporte" version="124">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Soporte.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Tornillo Helicoidal" uid="Tornillo Helicoidal" version="190">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Tornillo Helicoidal.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Copia de Dosificador Volumétrico^Maquina_completa" uid="Copia de Dosificador Volumétrico^Maquina_completa" version="1811">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Maquina_completa.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="Base Inferior de la caja" uid="Base Inferior de la caja*:*Predeterminado" version="129">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base Inferior de la caja.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>16.075219601110533</Mass>
+<CenterOfMass>0.023855154295186299 0.0050000000000000001 0</CenterOfMass>
+<Inertia>0.13769640490465526 0.70016452907179094 0.56273604449382075 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Base Inferior de la caja_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Base de la pata" uid="Base de la pata*:*Predeterminado" version="117">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base de la pata.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0010477544784650544</Mass>
+<CenterOfMass>0 0.0025000000000000001 0</CenterOfMass>
+<Inertia>5.0690673939749172e-08 9.7015704219227292e-08 5.0690673939749186e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Base de la pata_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Base del dosificador" uid="Base del dosificador*:*Predeterminado" version="192">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base del dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>20.169938768806926</Mass>
+<CenterOfMass>-0.0085531269778709243 0.0098586057883363106 0.018342241080587064</CenterOfMass>
+<Inertia>0.37302915301640904 0.81504476824729499 0.44591906832656103 -0.0010743644792243377 -0.043433411681969951 0.00050099044676579199</Inertia>
+</MassProperties>
+<GeometryFile name="Base del dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Base" uid="Base*:*Predeterminado" version="147">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.88036504591503528</Mass>
+<CenterOfMass>-3.163811468086125e-15 0.0050000000000000001 -1.0149657283198385e-15</CenterOfMass>
+<Inertia>0.006631064329273597 0.013247455907781943 0.006631064329273597 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Base_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Caja negra" uid="Caja negra*:*Predeterminado" version="113">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Caja negra.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>192.49999999999997</Mass>
+<CenterOfMass>0 0.38500000000000006 0</CenterOfMass>
+<Inertia>13.521520833333335 8.0208333333333339 13.521520833333335 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Caja negra_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Columna de caja base" uid="Columna de caja base*:*Predeterminado" version="122">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Columna de caja base.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.59033471204064969</Mass>
+<CenterOfMass>0 -0.077793733681462141 0</CenterOfMass>
+<Inertia>0.0031760752117574748 2.7392571045815724e-05 0.0031760752117574748 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Columna de caja base_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Columna del dosificador" uid="Columna del dosificador*:*Predeterminado" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Columna del dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.5388777454344329</Mass>
+<CenterOfMass>0 0.32500000000000029 0</CenterOfMass>
+<Inertia>0.054625286850061919 0.00088793245911566879 0.054625286850061919 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Columna del dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Covertor de dosificador" uid="Covertor de dosificador*:*Predeterminado" version="250">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Covertor de dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>9.022106191500832</Mass>
+<CenterOfMass>0.18144873733183112 -0.0082571329193202262 -0.14789644314162925</CenterOfMass>
+<Inertia>0.099408240229625522 0.17812925041672562 0.084327236810872522 0.00048037698838143016 -0.055014166590249491 0.0005529407875379277</Inertia>
+</MassProperties>
+<GeometryFile name="Covertor de dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Disco Dosificador" uid="Disco Dosificador*:*Predeterminado" version="175">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Disco Dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>40.752740579880992</Mass>
+<CenterOfMass>-1.9482344585239068e-15 0.0011702127659574508 -7.6544871362074394e-16</CenterOfMass>
+<Inertia>1.6589626936512216 3.2945102412832812 1.658962693651221 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Disco Dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Eje del dosificador" uid="Eje del dosificador*:*Predeterminado" version="114">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Eje del dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.8201767302756258</Mass>
+<CenterOfMass>0 0.19 0</CenterOfMass>
+<Inertia>0.046351477660677591 0.00076403534605512513 0.046351477660677591 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Eje del dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Eje del tornillo helicoidal" uid="Eje del tornillo helicoidal*:*Predeterminado" version="141">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Eje del tornillo helicoidal.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>3.3224981801906401</Mass>
+<CenterOfMass>0 0 0.99849999999999994</CenterOfMass>
+<Inertia>1.1110291324010608 1.1110291324010608 0.00040949790070849643 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Eje del tornillo helicoidal_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Escobilla" uid="Escobilla*:*Predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Escobilla.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.093461609806554838</Mass>
+<CenterOfMass>-0.097142857142856989 0.01313477900565546 0</CenterOfMass>
+<Inertia>1.0978459439773665e-05 0.00015422724491901172 0.0001566704415980724 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Escobilla_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Goma de sopote" uid="Goma de sopote*:*Predeterminado" version="155">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Goma de sopote.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.13607000443301315</Mass>
+<CenterOfMass>3.7961079511445799e-09 0.012012963222643567 1.0927154256213463e-08</CenterOfMass>
+<Inertia>9.8675861403226756e-05 0.00018391667480276708 9.8675692470797811e-05 -2.2283609317150245e-11 -1.6568160246145662e-11 -7.7413555749086066e-12</Inertia>
+</MassProperties>
+<GeometryFile name="Goma de sopote_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.29411764705882354" g="0.29411764705882354" b="0.29411764705882354" a="1"/>
+<Diffuse r="0.29411764705882354" g="0.29411764705882354" b="0.29411764705882354" a="1"/>
+<Specular r="0.14705882352941177" g="0.14705882352941177" b="0.14705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Hélice" uid="Hélice*:*Predeterminado" version="163">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Hélice.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.3224815240625345</Mass>
+<CenterOfMass>5.6979838032749847e-08 2.1135116448293545e-08 -0.99855270639073146</CenterOfMass>
+<Inertia>2.4456362444200499 2.4456362653784063 0.0096078791385376082 -0.0020239513614244285 -2.1455396685456653e-05 5.9418126358564488e-10</Inertia>
+</MassProperties>
+<GeometryFile name="Hélice_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Pata del dosificador" uid="Pata del dosificador*:*Predeterminado" version="127">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Pata del dosificador.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>2.2424338260000001</Mass>
+<CenterOfMass>-0.0058514079769792712 0.25324499999999994 -0.010000000000000011</CenterOfMass>
+<Inertia>0.048766978334989185 0.0016579060753559986 0.048766978334989185 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Pata del dosificador_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Rueda de vaso" uid="Rueda de vaso*:*Predeterminado" version="112">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Rueda de vaso.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.003966353353927427</Mass>
+<CenterOfMass>0 0 0.0030000000000000001</CenterOfMass>
+<Inertia>2.3305193288905304e-07 2.3305193288905299e-07 4.4344611960582488e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Rueda de vaso_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Sensor de carga 5 kgf" uid="Sensor de carga 5 kgf*:*Predeterminado" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Sensor de carga 5 kgf.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.000117416676048357</Mass>
+<CenterOfMass>0.010476775849615505 0.019555699476568832 0.088576803218758729</CenterOfMass>
+<Inertia>2.0241022896389197e-07 1.8894939172950392e-07 1.3475493882648462e-08 -3.7264913038844023e-08 4.9051294540983577e-14 3.1218994975988187e-14</Inertia>
+</MassProperties>
+<GeometryFile name="Sensor de carga 5 kgf_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Soporte para eje de dosificadora" uid="Soporte para eje de dosificadora*:*Predeterminado" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Soporte para eje de dosificadora.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.20971963295200391</Mass>
+<CenterOfMass>-0.020863131826298162 0.014999999999999994 0.0053160208313207963</CenterOfMass>
+<Inertia>9.5847792232224652e-05 0.00024592822755021518 0.00018153838026079109 0 2.3350383336941042e-05 0</Inertia>
+</MassProperties>
+<GeometryFile name="Soporte para eje de dosificadora_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078431372549028" g="0.49568627450980396" b="0.4705882352941177" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Tapa de Vaso volumétrico" uid="Tapa de Vaso volumétrico*:*Predeterminado" version="188">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Tapa de Vaso volumétrico.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.27417357336321763</Mass>
+<CenterOfMass>-0.0018780951916334242 -0.0007090826065491748 1.6708082604470204e-09</CenterOfMass>
+<Inertia>0.00016140802397533819 0.0003877101494329616 0.00024925638122761702 2.9259430963576957e-12 2.9271590119086924e-11 -1.9453426769212985e-05</Inertia>
+</MassProperties>
+<GeometryFile name="Tapa de Vaso volumétrico_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Tolva" uid="Tolva*:*Predeterminado&lt;Como mecanizada&gt;" version="308">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Tolva.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>10.14838083360342</Mass>
+<CenterOfMass>1.7291112999666868e-11 0.040012848019773256 -2.2931396113492386e-09</CenterOfMass>
+<Inertia>1.1582716757740834 1.200537454380376 1.1582716757740843 -6.7800048561550419e-11 0 6.9145470599218939e-12</Inertia>
+</MassProperties>
+<GeometryFile name="Tolva_Predeterminado&lt;Como mecanizada&gt;_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Tornillo roscado de sopote" uid="Tornillo roscado de sopote*:*Predeterminado" version="193">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Tornillo roscado de sopote.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.056776377360338776</Mass>
+<CenterOfMass>-2.29522351372517e-07 0.02465815324309676 7.5608329096408528e-07</CenterOfMass>
+<Inertia>4.4719760472291879e-05 1.2365059001474826e-05 4.4719443208629719e-05 -1.8487409886824763e-10 7.9903507483843446e-11 1.4005136508152825e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Tornillo roscado de sopote_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.6470588235294118" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.6470588235294118" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.45294117647058824" g="0.43372549019607842" b="0.41176470588235292" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Tubo Canalón" uid="Tubo Canalón*:*Predeterminado" version="666">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Tubo Canalón.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>78.99594729856895</Mass>
+<CenterOfMass>-0.64945656507521998 0.44897276970943223 -0.027486757414746595</CenterOfMass>
+<Inertia>15.908242022474067 14.949146783654633 30.045581151944702 0.0029626902502423399 0.0017483235798762709 8.2889897473163465</Inertia>
+</MassProperties>
+<GeometryFile name="Tubo Canalón_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Vaso volumétrico" uid="Vaso volumétrico*:*Predeterminado" version="173">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Vaso volumétrico.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.4007987559121238</Mass>
+<CenterOfMass>5.2962879064015028e-16 0.088091147345965695 0.00071324509690238243</CenterOfMass>
+<Inertia>0.0056737008170435616 0.0037414734009518541 0.0056155407989564692 8.2018319725108097e-05 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Vaso volumétrico_Predeterminado_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="clevis pin headed_bsi" uid="clevis pin headed_bsi*:*BS EN 22341 - B - 5 x 24 x 1.2 - St" version="1180">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="clevis pin headed_bsi.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00052045980155353744</Mass>
+<CenterOfMass>0.011454847663055687 4.5757718992824149e-10 7.0914080129557253e-12</CenterOfMass>
+<Inertia>1.8841237271255529e-09 3.0079373345370773e-08 3.0090440498885678e-08 0 0 -1.9873489781745412e-15</Inertia>
+</MassProperties>
+<GeometryFile name="clevis pin headed_bsi_BS EN 22341 - B - 5 x 24 x 1.2 - St_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hex nut heavy_am" uid="hex nut heavy_am*:*B18.2.4.6M - Heavy hex nut,  M12 x 1.75 --W-N" version="1266">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hex nut heavy_am.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0036339741414939154</Mass>
+<CenterOfMass>0 1.7922970087066235e-09 -0.0061201071765858879</CenterOfMass>
+<Inertia>1.7922195481779835e-07 1.7922156547120218e-07 2.6934841178104026e-07 -4.4006053487291161e-14 0 -8.8857173649742524e-15</Inertia>
+</MassProperties>
+<GeometryFile name="hex nut heavy_am_B18.2.4.6M - Heavy hex nut-  M12 x 1.75 --W-N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pan head tapping screw_am" uid="pan head tapping screw_am*:*PHT 4.8x20x18.4-slot-B-N" version="1549">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pan head tapping screw_am.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00057498290066467297</Mass>
+<CenterOfMass>0.0091039423877577012 1.4095689385420528e-10 1.6120690820595425e-10</CenterOfMass>
+<Inertia>3.4285817323638628e-09 3.1473509046458725e-08 3.1530785708641059e-08 0 0 5.3234299866514957e-16</Inertia>
+</MassProperties>
+<GeometryFile name="pan head tapping screw_am_PHT 4.8x20x18.4-slot-B-N_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="taper pin unhardened_bsi" uid="taper pin unhardened_bsi*:*BS EN 22339 - A - 5 x 18 - St" version="1007">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="taper pin unhardened_bsi.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00036467729467286943</Mass>
+<CenterOfMass>0.0091941599984379421 0 0</CenterOfMass>
+<Inertia>1.2047030043918959e-09 9.7856803242900923e-09 9.7856803242900923e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="taper pin unhardened_bsi_BS EN 22339 - A - 5 x 18 - St_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
