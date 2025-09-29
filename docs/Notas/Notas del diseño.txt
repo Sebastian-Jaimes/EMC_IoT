@@ -1,0 +1,35 @@
+Componentes mecánicos para diseño 3D
+
+Sistema de traslado:
+	Motor del transportador helicoidal
+
+Sistema de dosificación:
+	Motor del dosificador volumétrico
+	Sensor de peso
+
+Sistema de suministro de bolsas
+	Motor de paso para suministrar el plástico de las bolsas
+
+Sistema de suministro de válvulas
+	Actuador lineal colocador de válvulas
+
+Sistema de información
+	Sensor capacitivo
+	Módulo Wifi
+
+Sistema de empaquetado
+	Motor de paso para correas de deslizamiento de la bolsa
+	Motor de paso para correas de deslizamiento de la bolsa
+	Motor de paso para correas de deslizamiento de la bolsa
+	Motor de paso para correas de deslizamiento de la bolsa
+	Actuador lineal para sellar y cortar la bolsa
+	Actuador lineal para sellar y cortar la bolsa
+	Actuador lineal para formar la base de la bolsa
+	Actuador lineal para formar la base de la bolsa
+	Actuador lineal para las correas de desplazamiento
+	Actuador lineal para las correas de desplazamiento
+	Actuador lineal para sellar un lado de la bolsa
+
+
+CONTROLADOR DE SISTEMA
+

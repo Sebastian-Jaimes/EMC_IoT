@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="LGRHkEk5826GOp8j9p-c" name="Diagrama de Funciones">
-        <mxGraphModel dx="599" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
+        <mxGraphModel dx="666" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="u75f97sQ8zGiJuDjL_UH-0"/>
                 <mxCell id="u75f97sQ8zGiJuDjL_UH-1" parent="u75f97sQ8zGiJuDjL_UH-0"/>
@@ -239,7 +239,7 @@
                         <mxPoint x="1002.7632558139534" y="1349.12" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="" style="edgeStyle=none;html=1;strokeWidth=4;" edge="1" parent="u75f97sQ8zGiJuDjL_UH-1" source="8xO2yfuUKAtKJKmZYQV5-66" target="27">
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;strokeWidth=4;" parent="u75f97sQ8zGiJuDjL_UH-1" source="8xO2yfuUKAtKJKmZYQV5-66" target="27" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="8xO2yfuUKAtKJKmZYQV5-66" value="Formar la bolsa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#000000;" parent="u75f97sQ8zGiJuDjL_UH-1" vertex="1">
@@ -513,17 +513,17 @@
                 <mxCell id="25" value="Mostrar las ganancias netas esperadas semanalmente" style="rounded=0;whiteSpace=wrap;html=1;" parent="u75f97sQ8zGiJuDjL_UH-1" vertex="1">
                     <mxGeometry x="1720.9246511627914" y="826.9999999999999" width="145.11627906976744" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="" style="edgeStyle=none;html=1;strokeWidth=4;" edge="1" parent="u75f97sQ8zGiJuDjL_UH-1" source="27" target="8xO2yfuUKAtKJKmZYQV5-68">
+                <mxCell id="29" value="" style="edgeStyle=none;html=1;strokeWidth=4;" parent="u75f97sQ8zGiJuDjL_UH-1" source="27" target="8xO2yfuUKAtKJKmZYQV5-68" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="Llenar recipiente de bolsas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#000000;" vertex="1" parent="u75f97sQ8zGiJuDjL_UH-1">
+                <mxCell id="27" value="Llenar recipiente de bolsas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#000000;" parent="u75f97sQ8zGiJuDjL_UH-1" vertex="1">
                     <mxGeometry x="1620.0032558139535" y="1272.62" width="145.11627906976744" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="OdCKMH0avqiSebCszpiZ" name="Black Box">
-        <mxGraphModel dx="810" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="666" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
